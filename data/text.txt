@@ -1,0 +1,4659 @@
+@0 99BA/99BC 
+# \2
+# 　　　むかしむかし・・・・・と、いっても\1
+# 　　　　きょうが　ほんのすこしだけ\1
+# 　あしたに思えるかもしれない　むかし・・・・\0
+\2
+### original line is kind of unclear
+Once upon a time, where\1
+ today could hardly be\1
+ told from tomorrow...\0
+
+
+@0 9A88/9A8A 
+# \2
+# 　あそこの　うちゅうの、あそこの　ほしの\1
+# 　　　　　　あそこのまちに、\1
+# 　　　ひとりの　おんなのこがいました。\0
+\2
+ In a faraway universe,\1
+  on a faraway planet,\1
+   in a faraway town,\4\2
+   there was a girl.\0
+	 
+
+
+@0 9B59/9B5B 
+# \2
+# 　　　　　その子は　どこにでもいる\1
+# 　　　ふつうのおんなのこに　見えましたが、\1
+# \5　ただ　すこしだけちがうところがあるとしたら\0
+\2
+ She looked like your\1
+average girl, but there\1
+was one thing about her…\0
+
+
+@0 9BD4/9BD6 
+# \2
+# その子は　まほうでおとなにへんしんできたのです。\0
+\2
+She could transform into\1
+  an adult using magic.\0
+
+
+@0 AD6C/AD6E 
+# \2
+\2
+# \fFFそれは、あるひの　あさのことでした・・・。\4\4\2
+\fffOne morning...\4\4\2
+# \f60モモ：むにゃ　むにゃ・・・・・・\4\4\0
+### i dunno you try finding a better onomatopeia for waking up noises
+\f60Momo:mmmnngh......\4\4\0
+
+
+@0 AD95/AD97 
+# \2
+\2
+# \f65チャーモ：おはよう、モモ！\4\4\2
+\f65Charmo:Good morning,\1
+ Momo!\4\4\2
+# \f60モモ：おはよ・・・今、何時？\4\4\2
+\f60Momo:Morning...what\1
+ time is it?\4\4\2
+# \f64ルピピ：えっとー　８時になるわよ。\4\4\2
+\f64Rupipi:Um... it's 8\1
+ o'clock.\4\4\2
+# \f61モモ：えーーっ！　がっこうにおくれちゃう！\4\4\2
+\f61Momo:Whaaaat! I'm\1
+ gonna be late for\1
+ school!\4\4\2
+# \f64クックブック：モモ、しっかりするダバ。\1
+# 　　　　　　　きょうから、なつやすみダバ\4\4\2
+\f64Cookbook:Momo, calm\1
+ down. Starting today,\1
+ it's summer vacation.\4\4\2
+# \f62モモ：あっ・・・と、そっか、\1
+# 　　　なつやすみかぁ・・・・・・\4\4\2
+\f62Momo:Ah...erm..yes,\1
+ summer vacation, huh…?\4\4\2
+# \f63モモ：そだっ！　パパにたのんで、\1
+# 　　　どっか、つれてってもーらおっと\4\4\2
+\f63Momo:Yes! I'll ask Papa\1
+ to take me somewhere!\4\4\2
+# \f65おとも：さんせーい！　はやく行くダバ。\4\4\2
+\f65All:Agreed!\1
+ Let's go, quickly.\4\4\2
+# \0
+\0
+
+
+@0 B2CF/B2D1 
+# \2
+\2
+# \f26ポップ：やあやあやあ、もうひとつ　やあ。\1
+# 　　　　おはよう、モモ。\6\2
+### awkward but the original is like this too
+\f26Pop:Hey hey hey, and\1
+ another “hey”!\1
+ Good morning, Momo.\6\2
+# \f1Fモモ：おはよう、ポップおじいさん。\6\2
+\f1fMomo:Good morning, Pop.\6\2
+# \f26ポップ：きょうは、いいてんきじゃのう。\6\2
+\f26Pop:Good weather today,\1
+ eh?\6\2
+# \0
+\0
+
+
+@0 B2DF/B2E1 
+# \2
+\2
+# \f26ポップ：けさ、このあたりをそうじしてたらのう・・\1
+### no newline
+\f26Pop:This morning, while I
+ was cleaning round here…\6\2
+# 　　　　へんなどうぶつの　あしあとが、\6\2
+# 　　　　たくさんついとったよ。そう、\1
+# 　　　　モモの家のほうにも　あったぞい。\6\2
+ …there were lots of\1
+ strange animal's\1
+ footprints.\6\2
+ Yes, they were also at\1
+ your house.\6\2
+# \0
+\0
+
+
+@0 B2EF/B2F1 
+# \2
+\2
+# \f26ポップ：ここんとこ、この　こうえんに\1
+# 　　　　くる人がへっておる。\6\2
+### no newline
+\f26Pop:Recently, less people
+ have been coming to this
+ park.\6\2
+# 　　　　みんなもっと　こうえんをあいし・・・\1
+# 　　　　もっと　こうえんにやってきて・・・そして\6\2
+ I think everyone should\1
+ love the park more,\1
+ come to the park more,\6\2
+# 　　　　もっと　ポップコーンをたべるべきじゃ。\1
+ …and eat more popcorn!\1
+# 　　　　そうは思わんかね？　モモ。\6\2
+ Don't you agree, Momo?\6\2
+# \0
+\0
+
+
+@0 B2FF/B301 
+# \2
+\2
+# \f27ポップ：・・・・・・・やあ、モモ・・・・・・\6\2
+\f27Pop:..........\1
+ ..hey, Momo...\1
+ .......\6\2
+# \f20モモ：・・・？・・・ポップおじいさん？\1
+# 　　　どしたの？　げんきないダバ。\6\2
+\f20Momo:...?...Pop?\1
+ What's wrong?\1
+ You seem down.\6\2
+# \f27ポップ：なんかのう・・・きゅうにくたびれちまって\1
+# 　　　　もう、店をしめようかと思うんじゃが・・・\6\2
+\f27Pop:Erm, well...all of a\1
+ sudden I've gotten real\1
+ sick of this store.\6\2
+ I've been wondering\1
+ whether or not I should\1
+ just shut it down...\6\2
+# \f21クックブック：なんと・・・、ポップじいさんまで\1
+# 　　　　　　　夢をくわれてしもうたか。\6\2
+\f21Cookbook:Unbelievable...\1
+ Even Pop has had\1
+ his dreams eaten.\6\2
+# \0
+\0
+
+
+@0 B30B/B30D 
+# \2
+\2
+# \fFF『ほんじつは、へいてんしました。』\6\2
+\fff“Closed for today.”\6\2
+# \0
+\0
+
+
+@0 B53F/B541 
+# \2
+\2
+# エキストラ：ここの家、ふうふみずいらずで\1
+# 　　　　　　りょこうですって。すてきね。\6\2
+Extra:I heard that the\1
+### no newline
+ married couple who lives
+### they went on a trip by themselves, some kind of romantic getaway probably
+### also she thinks it's wonderful
+ here went on a trip!\6\2
+# 　　　　　でも、おとこの子が一人いたはずだけど\1
+# 　　　　　どうしてるのかしら。\6\2
+ However, they have a\1
+### no newline
+ son... I wonder how he's
+ doing.\6\2
+# \0
+\0
+
+
+@0 B54F/B551 
+# \2
+\2
+# エキストラ：きいてきいて！\1
+# 　　　　　　わたしもついに見たのっ！\6\2
+Extra:Hey, listen! I\1
+ finally saw it!\6\2
+# 　　　　　　今うわさの、ブタみたいなゾウみたいな\1
+# 　　　　　　へんなどうぶつー！\6\2
+ The rumored pig-like,\1
+ elephant-like strange\1
+ animal!\6\2
+# 　　　　　　うわさは、ほんとうだったのねー。\6\2
+ The rumors were true\1
+ all along!\6\2
+# \0
+\0
+
+
+@0 B55B/B55D 
+# \2
+\2
+# エキストラ：いぜんね、アパートにすんでる\1
+# 　　　　　　『リュウ』ってひとが、\6\2
+Extra:Hey, you know that\1
+ “Ryuu” guy who lives\1
+ in the apartments?\6\2
+# 　　　かわむこうの洋館でコンサートをひらいてね、\1
+# 　　　すごかったのよぉー\6\2
+ He used to hold these\1
+ amazing concerts in the\1
+ mansion by the river~!\6\2
+# 　　　いぬは　ほえるわ、子供は　なきだすわ、\1
+# 　　　もう、しっしんしゃぞくしゅつ！\6\2
+ Dogs were barking, kids\1
+### no newline
+ were crying, people were
+ fainting one by one!\6\2
+# \0
+\0
+
+
+@0 B6E5/B6E7 
+# \2
+\2
+# じんぺい：ねえ、ボクのひこうきしらない？\1
+# 　　　　　このへんに、おちたはずなんだけど・・・\6\2
+### no newline
+Jinpei:Hey, have you seen
+ my airplane? It must've\1
+ fallen around here...\6\2
+# \0
+\0
+
+
+@0 B6FB/B6FD 
+# \2
+\2
+# \f20モモ：ごめんね、見なかったわ。\6\2
+\f20Momo:Sorry, I haven't\1
+ seen it.\6\2
+# \0
+\0
+
+
+@0 B707/B709 
+# \2
+\2
+# \f1Fモモ：これのこと？\1
+# 　　　木の上にひっかかってたけど・・・\6\2
+\f1fMomo:This? It was stuck\1
+ in the top of the tree…\6\2
+# \fFFじんぺい：あっ！　それだあ！\1
+# 　　　　　どうもありがとう。\6\2
+# 　　　　　じゃあ、おれいに　これ、あげるよ！\6\0
+\fffJinpei:Ah! That's it!\1
+ Thank you very much.\1
+ I'll give you this!\6\0
+
+
+
+@0 B718/B71A 
+# \2
+\2
+# ドリームパールをてにいれた。\6\2
+You got a Dream Pearl.\6\2
+# じんぺい：でも、きみ、木の上まで登ったの？\1
+# 　　　　　すごいなあ・・・ガッチョマンみたいだ。\6\2
+Jinpei:By the way, did\1
+ you seriously climb all\1
+ the way to the top?\6\2
+### no newline
+ That's awesome... you're
+### this is a reference to gatchaman.
+### many characters in this game have names from the series
+ just like Gatchoman.\6\2
+# \0
+\0
+
+
+@0 B841/B843 
+# \2
+\2
+# \f74ルピピ：モモ、みてみて！\1
+# 　　　　テレビが・・・・・\6\2
+\f74
+Rupipi:Momo, look, look!\1
+ The TV's.....\6\2
+# \f73モモ：かってにうつりだしたわ？\1
+# 　　　・・・・・・・？\6\2
+\f73
+Momo:It turned on by\1
+ itself? .......?\6\2
+# \f75ママ：モモ？・・・・\1
+# 　　　・・・・モモなの？\6\2
+\f75
+Mama:Momo?.....\1
+ Is that Momo?\6\2
+# \f72モモ：ママ？！\1
+# 　　　どうしてママが？・・・・\6\2
+\f72
+Momo:Mama?!\1
+ Why are you.....?\6\2
+# \f76パパ：つうじたダバ、つうじたダバ！\1
+# 　　　ドリームパールのえいきょうが\6\2
+# 　　　まだ、のこってたダバダバ！\6\2
+\f76
+Papa:We got through,\1
+ we got through!\6\2
+ There's still power\1
+ left in the Dream\1
+ Pearls!\6\2
+# \f74クックブック：ドリームパール？\1
+# 　　　　　　　あれをつかったものがいるダバ？？\6\2
+\f74
+Cookbook:Dream Pearls?\1
+ Someone was using\1
+ them??\6\2
+# \f73モモ：ドリームパール・・？\1
+# 　　　それって、なあに？\6\2
+\f73
+Momo:Dream Pearl..?\1
+ What's that?\6\2
+# \f74クックブック：モモもきいたことがあるじゃろう？\1
+# 　　　　　　　マリンナーサの　ひほうで、\6\2
+# 　　　　　　　１０こそろうと、ねがいごとが\1
+# 　　　　　　　かなうといわれる\6\2
+# 　　　　　　　まほうのしんじゅのことじゃよ。\6\2
+\f74
+### i'm omitting "まほうのしんじゅ" because it's obvious to us english speakers.
+### a japanese child would probably not know what パール means but we do
+### no newline
+Cookbook:You've heard of\1
+ them, right? They're\1
+ Marinnarsa's treasure.\6\2
+ It is said that if you\1
+ collect 10 of them,\1
+ they will grant a wish.\6\2
+# \f75ママ：そう、その力をつかって\1
+# 　　　マリンナーサから、そちらのせかいへ\6\2
+# 　　　にげだしたものがいるのです。\6\2
+\f75
+Mama:Yes. Using their\1
+ power, someone escaped\6\2
+ Marinnarsa and came\1
+ to your world.\6\2
+# \f74クックブック：そりゃあ、もしかして・・・？\6\2
+\f74
+Cookbook:Could it be...?\6\2
+# \f75ママ：マリンナーサのマフィアのボス、\1
+# 　　　『バグー』です。\6\2
+\f75
+Mama:Marinnarsa's mafia\1
+ boss, “Bagu”.\6\2
+# \f73モモ：『ばぐー』？\6\2
+\f73
+Momo:“Bagu”?\6\2
+# \f74クックブック：モモはちいさかったから\1
+# 　　　　　　　しらんじゃろうが、５ねんほどまえ\6\2
+# 　　　　　　　マリンナーサで、ひとびとが\1
+# 　　　　　　　どんどん無気力になるという\6\2
+# 　　　　　　　じけんがおこったことが\1
+# 　　　　　　　あるんじゃよ。\6\2
+\f74
+Cookbook:You don't know\1
+### no newline
+ because you were little,
+ but about 5 years ago,\6\2
+ in Marinnarsa, people\1
+ were gradually losing\1
+ their willpower.\6\2
+# \f76パパ：そうダバ！バグーは夢をたべるのが\1
+# 　　　大すきダバ！\6\2
+# 　　　夢をたべられたものは、無気力に\1
+# 　　　なってしまうダバダバ。\6\2
+\f76
+Papa:Yeah! Bagu really\1
+ loves eating dreams!\6\2
+### this hopefully helps to explain what i mean when i say "lose energy/willpower/etc"
+ Anyone whose dreams are\1
+ eaten loses their will\1
+ to do anything!\6\2
+# \f75ママ：そのバグーが、ドリームパールをぬすんで\1
+# 　　　そちらのせかいへ行ったのです。\6\2
+\f75
+Mama:That Bagu stole the\1
+ Dream Pearls and came\1
+ to your world.\6\2
+# 　　　・・・・・・\1
+# 　　　モモ、てみじかにいいます。\6\2
+# 　　　ドリームパールをさがしなさい。\1
+ .......\1
+ Momo, I'll be brief.\1
+ Search for the pearls.\6\2
+# 　　　バグーがそちらに行った時、\6\2
+# 　　　１０このパールは、\1
+# 　　　とびちってしまったはずです。\6\2
+ When Bagu came, the\1
+ 10 Dream Pearls must\1
+ have been scattered.\6\2
+# 　　　ひとびとの夢をとりもどすには\1
+# 　　　ドリームパールの力をつかうしかありません。\6\2
+ To restore the people's\1
+### no newline
+ dreams, you must use the
+ Dream Pearls' power.\6\2
+# \f72モモ：わかったわ、ママ！\6\2
+\f72
+Momo:I got it, Mama!\6\2
+# \f75ママ：いそぎなさい、今ごろはきっとバグーも\1
+# 　　　ドリームパールをさがしまわってるはずです。\6\2
+\f75
+Mama:Now hurry. Right\1
+ now, Bagu must be\1
+ hunting for them.\6\2
+# \f72モモ：まかしといて！　バグーよりさきに\1
+# 　　　見つけてみせるわ！\6\2
+\f72
+### no newline
+Momo:Leave it to me! I'll
+ definitely find them\1
+ before Bagu does!\6\2
+# \f75ママ：がんばるのですよ。\6\2
+\f75
+Mama:Do your best.\6\2
+# \f76パパ：あーっ！！　もうきえるダバ！\1
+# 　　　もうすこし、はなしたいダバーー！・・・・\6\2
+\f76
+Papa:Aah! We're losing\1
+ them! I wanna talk a\1
+ little more!.....\6\2
+# \fFF・・・・・・・・・・・・・・\6\2
+\fff.............\6\2
+# \f74ルピピ：きえたわ・・・・。\6\2
+\f74
+Rupipi:It turned off...\6\2
+# \f72モモ：よーし、こうなりゃ\1
+# 　　　なるよになるしかないダバさっ！\6\2
+\f72
+Momo:Alright, I have to\1
+ do what I have to do!\6\2
+# \0
+\0
+
+
+@0 B867/B869 
+# \2
+\2
+# \f74チャーモ：きったないテレビだなあ・・・・\6\2
+\f74
+Charmo:What a dirty TV…\6\2
+# \0
+\0
+
+
+@0 B877/B879 
+# \2
+\2
+# \f74チャーモ：もう、うつりそうもないな。\6\2
+\f74
+Charmo:Doesn't seem like\1
+ it'll turn on anymore.\6\2
+# \0
+\0
+
+
+@1 920F/9211 detective 
+# \2
+\2
+# これが現場写真。\1
+# １０秒間しっかり見てね。\0
+This is a\1
+photo of the\1
+crime scene.\1
+Look\1
+### no newline
+carefully for
+10 seconds.\0
+
+
+@1 923B/923D 9381/9383 93CB/93CD detective 
+# \2
+# \0
+\2\0
+
+
+@1 9288/928A detective 
+# \2
+\2
+# これが事件がおきる前の\1
+# 現場写真だよ。\0
+This is a\1
+photo from\1
+before the\1
+crime\1
+occured.\0
+
+
+@1 9318/931A detective 
+# \2
+\2
+# 時間ぎれだよ。\4\1
+Time's up.\4\1
+# ぬすまれたものは、\1
+# 『\3』でした。\4\4\4\0
+The stolen\1
+item was the\1
+“\3”.\4\4\4\0
+
+
+@1 9341/9343 detective 
+# \4\4\2
+\4\4\2
+# それじゃあ\1
+# つぎへいこう！\4\4\4\0
+Alright,\1
+onto the\1
+next...\4\4\4\0
+
+
+@1 934C/934E detective 
+# \2
+\2
+# やったぁ！\1
+# ぜんぶ見つけたぞ！\4\4\4\0
+Yeah!\1
+You got 'em\1
+all!\4\4\4\0
+
+
+@1 939E/93A0 detective 
+# \2
+\2
+# これは事件のあとの\1
+# 現場写真だよ。\0
+This is a\1
+photo from\1
+after the\1
+crime\1
+occured.\0
+
+
+@1 947A/947C detective 
+# \2
+\2
+# そこには\1
+# なにもないよ。\0
+There's\1
+nothing\1
+there.\0
+
+
+@1 9497/9499 detective 
+# \2
+\2
+# 『\3』か、、、\4\1
+The\1
+“\3”…\4\1
+# それだっ！\1
+# さっすが　モモ！\0
+That's it!\1
+Great work,\1
+Momo!\0
+
+
+@1 94A8/94AA detective 
+# \2
+\2
+# 『\3』は\1
+# ぬすまれていないよ！\0
+### this is awkward with "boots" because it's plural,
+### but i don't see any way around it
+The\1
+“\3”\1
+wasn't\1
+stolen!\0
+
+
+@1 9AFB/9AFC 9BD2/9BD3 9E56/9E57 9F3D/9F3E 9D3C/9D3D A0E0/A0E1 A24F/A250 detective 
+# トロフィー\0
+Trophy\0
+
+
+@1 9B05/9B06 9C36/9C37 9C73/9C74 9E9C/9E9D 9F1F/9F20 A19F/A1A0 A222/A223 A395/A396 A440/A441 detective 
+# まねきねこ\0
+Lucky cat\0
+
+
+@1 9B0F/9B10 9C18/9C19 9C69/9C6A 9F72/9F73 9DC9/9DCA A015/A016 A0AE/A0AF A14F/A150 A204/A205 A29F/A2A0 A356/A357 A3A9/A3AA A4B8/A4B9 detective 
+# おき時計\0
+Clock\0
+
+
+@1 9B19/9B1A 9E6A/9E6B A065/A066 A218/A219 A28B/A28C A39F/A3A0 A44A/A44B detective 
+# オニの面\0
+Demon mask\0
+
+
+@1 9B23/9B24 9DE7/9DE8 9E7E/9E7F 9ECF/9ED0 9F29/9F2A A195/A196 A20E/A20F A374/A375 A403/A404 A454/A455 detective 
+# ぬいぐるみ\0
+Plush toy\0
+
+
+@1 9B2D/9B2E 9F9A/9F9B 9D97/9D98 9E4C/9E4D 9F33/9F34 A05B/A05C A108/A109 A306/A307 A472/A473 detective 
+# ブランデー\0
+Brandy\0
+
+
+@1 9B37/9B38 9C87/9C88 9FA4/9FA5 9E74/9E75 9EF7/9EF8 9D46/9D47 detective 
+# 名画\0
+Painting\0
+
+
+@1 9B41/9B42 9F86/9F87 9E2E/9E2F 9F51/9F52 9D14/9D15 A0C2/A0C3 A13B/A13C A2BD/A2BE A324/A325 A3BD/A3BE detective 
+# カップ\0
+Cup\0
+
+
+@1 9B4B/9B4C 9C91/9C92 9E24/9E25 A145/A146 A2DB/A2DC detective 
+# インク\0
+Ink\0
+
+
+@1 9B55/9B56 9FD6/9FD7 9D1E/9D1F A0EA/A0EB A159/A15A A2C7/A2C8 A31A/A31B A3B3/A3B4 detective 
+# ポット\0
+Pot\0
+
+
+@1 9B5F/9B60 9BC8/9BC9 9F90/9F91 9D8D/9D8E A051/A052 A0F4/A0F5 A2FC/A2FD A47C/A47D detective 
+# ウィスキー\0
+Whiskey\0
+
+
+@1 9B69/9B6A 9C0E/9C0F 9CC3/9CC4 9FCC/9FCD 9DFB/9DFC 9EB0/9EB1 9F15/9F16 A029/A02A A0CC/A0CD A16D/A16E A1DC/A1DD detective 
+# イス\0
+### confirmed ingame, it's a stool not a chair
+Stool\0
+
+
+@1 9B73/9B74 9C22/9C23 9C55/9C56 9DB5/9DB6 A079/A07A A181/A182 A1C8/A1C9 A3EF/A3F0 A4AE/A4AF detective 
+# ぼうし\0
+### confirmed, it's a hat not a cap
+Hat\0
+
+
+@1 9B7D/9B7E 9BBE/9BBF 9C5F/9C60 9FE0/9FE1 9DAB/9DAC A18B/A18C A1D2/A1D3 A26D/A26E A3DB/A3DC A42C/A42D detective 
+# バッグ\0
+Bag\0
+
+
+@1 9BA0/9BA1 9D83/9D84 9CF6/9CF7 A00B/A00C A131/A132 A1BE/A1BF A4A4/A4A5 detective 
+# 人形\0
+Doll\0
+
+
+@1 9BAA/9BAB 9CAF/9CB0 9D79/9D7A A001/A002 A0A4/A0A5 A127/A128 A49A/A49B detective 
+# 花びん\0
+Vase\0
+
+
+@1 9BB4/9BB5 9F0B/9F0C 9CEC/9CED detective 
+# かけ時計\0
+Wall clock\0
+
+
+@1 9BDC/9BDD 9CCD/9CCE 9FAE/9FAF 9DF1/9DF2 9EE3/9EE4 9D5A/9D5B A01F/A020 A259/A25A A338/A339 A3D1/A3D2 A436/A437 detective 
+# ボール\0
+### confirmed ingame, it's a ball not a bowl
+Ball\0
+
+
+@1 9BE6/9BE7 9C7D/9C7E 9E88/9E89 9ED9/9EDA A163/A164 A263/A264 A342/A343 A40D/A40E detective 
+# だるま\0
+Daruma\0
+
+
+@1 9BF0/9BF1 9F7C/9F7D 9DA1/9DA2 9E42/9E43 9F47/9F48 9D0A/9D0B A0B8/A0B9 A310/A311 A3F9/A3FA A468/A469 detective 
+# グラス\0
+Glass\0
+
+
+@1 9BFA/9BFB 9CA5/9CA6 9FB8/9FB9 9DDD/9DDE 9E92/9E93 9D28/9D29 A033/A034 A1F0/A1F1 A277/A278 A36A/A36B detective 
+# ラジオ\0
+Radio\0
+
+
+@1 9C04/9C05 9C9B/9C9C 9DBF/9DC0 A0D6/A0D7 A177/A178 A1FA/A1FB A34C/A34D A486/A487 detective 
+# 電話\0
+Phone\0
+
+
+@1 9C2C/9C2D 9E05/9E06 9EA6/9EA7 9EED/9EEE 9D50/9D51 A0FE/A0FF A32E/A32F A3C7/A3C8 detective 
+# 長ぐつ\0
+### confirmed, it's plural
+Boots\0
+
+
+@1 9CB9/9CBA 9D00/9D01 A047/A048 A09A/A09B A3E5/A3E6 detective 
+# ワイン\0
+Wine\0
+
+
+@1 9FC2/9FC3 9D32/9D33 A03D/A03E A1E6/A1E7 A281/A282 A360/A361 A490/A491 detective 
+# ウォークマン\0
+Walkman\0
+
+
+@1 9DD3/9DD4 A2B3/A2B4 detective 
+# ファミコン\0
+Famicon\0
+
+
+@1 9E38/9E39 A2D1/A2D2 detective 
+# ペン\0
+Pen\0
+
+
+@1 9E60/9E61 9F01/9F02 A06F/A070 A22C/A22D A295/A296 A45E/A45F detective 
+# お面\0
+Mask\0
+
+
+@1 A2A9/A2AA detective 
+# カートリッジ\0
+Cartridge\0
+
+
+### this guy's name is a term for NPCs in games
+### Extra has a similarly meta name
+@1 B989/B98B 
+# \2
+\2
+# モブ：よう、げんきかい？\1
+# 　　　子供はげんきが一番だ。\6\2
+Mob:Hey, how are you?\1
+ Children are the best\1
+ when they're healthy.\6\2
+# \0
+\0
+
+
+@1 B99C/B99E 
+# \2
+\2
+# モブ：電器屋のよこにあるテレビ、\1
+# 　　　いらないのかなあ・・・・\6\2
+# 　　　ちょっと、ほしいなあ・・・\6\2
+### no newline
+Mob:I wonder if they need
+ that TV in front of the\1
+ electronics store...\6\2
+ I kind of want it...\6\2
+# \0
+\0
+
+
+@1 B9AC/B9AE 
+# \2
+\2
+# モブ：オレは見た！\6\2
+# 　　　ブタみたいな、ゾウみたいな、\1
+# 　　　とにかくへんなどうぶつを！\6\2
+# 　　　だれも、しんじちゃくれないけどな。\6\2
+Mob:I saw that pig-like,\1
+ elephant-like,\1
+ strange animal!\6\2
+ Although nobody will\1
+ believe me.\6\2
+# \0
+\0
+
+
+@1 B9BC/B9BE 
+# \2
+\2
+# モブ：まったく・・・電器屋のオヤジは\1
+# 　　　いつからあんなに、ぶあいそになったんだ？\6\2
+Mob:Geez...when did the\1
+ guy at the electronics\1
+ store get THAT grumpy?\6\2
+# \0
+\0
+
+
+@1 B9CC/B9CE 
+# \2
+\2
+# モブ：気のせいかな？　ここんとこ\1
+# 　　　外をあるいてる人がへったような気がする。\6\2
+### no newline
+Mob:Is it my imagination?\6\2
+ Feels like less people\1
+ are walking around\1
+ outside lately.\6\2
+# \0
+\0
+
+
+@1 B9DC/B9DE 
+# \2
+\2
+# モブ：きいたかい？　ごうとうさわぎのつぎは\1
+# 　　　こんどは　どろぼうだとさ。\6\2
+Mob:Have you heard?\6\2
+ After all that ruckus\1
+ over the robbery,\1
+ now there's a burglar.\6\2
+# \0
+\0
+
+
+@1 B9EC/B9EE 
+# \2
+\2
+# モブ：それにしても、いいてんきだねぇ・・・。\1
+# 　　　こんなひは、アイスでもたべたいなあ。\6\2
+### no newline
+Mob:The weather's good...
+ On days like this, I\1
+ want to eat ice cream.\6\2
+# \0
+\0
+
+
+@1 B9F8/B9FA 
+# \2
+\2
+# モブ：あしたもはれるといいな。\6\2
+Mob:It'd be nice if it's\1
+ sunny tomorrow, too.\6\2
+# \0
+\0
+
+
+@1 BB9E/BBA0 
+# \2
+\2
+# \f1Fモモ：あっ、　ねこだ。\1
+# 　　　ねーこ。ねこねこ♡\6\2
+\f1fMomo:Ah, it's a cat.\1
+ Caaaat. Catcat♡\6\2
+# \f2Aねこ：にゃあーっ。\6\2
+\f2aCat:Meoooow.\6\2
+# \0
+\0
+
+
+@1 BBE4/BBE6 
+# \2
+\2
+# \f20モモ：しまってるよ。\1
+# 　　　るすなのかな・・・？\6\2
+\f20Momo:It's shut.\1
+ Wonder if anyone's home…\6\2
+# \0
+\0
+
+
+@1 BBFA/BBFC 
+# \2
+\2
+# \fFFこほっ・・・こほ、こほっ・・・\6\2
+\fffcough...hack, cough...\6\2
+# \f21チャーモ：あれ？　だれか、せきをしてるみたいだ。\6\2
+### no newline
+### sounds stupid but afaik there are no other onomatopeia for coughing
+\f21Charmo:Huh? It seems like
+ someone's coughing.\6\2
+# \0
+\0
+
+
+@1 BC63/BC65 
+# \2
+\2
+# ボルトー：そっちからはいっちゃだめだよ。\1
+# 　　　　　お店のほうから、入っておくれ。\6\2
+Bolto:Don't enter from\1
+ there. Enter from the\1
+ store instead.\6\2
+# \0
+\0
+
+
+@2 AC07/AC09 
+# \2
+\2\4
+# \4はじめに、あなたのたんじょうびと、\1
+# きょうのひづけを入れて下さい。\6\2
+First, enter your\1
+birthday and\1
+today's date.\6\2
+# 十字ボタンで　すうじをかえて、\1
+# Ａボタンで　けっていします。\1
+# Ｂボタンで　１つまえにもどります。\6\2
+### no newline
+### this one kind of suffers because of the lack of screen space
+Change number with D-Pad,
+Confirm with A Button,\1
+Return one with B Button.\6\2
+# \2
+# あなたの　たんじょうびは？\0
+\2What is your birthday?\0
+
+
+@2 AC8B/AC8D 
+# \2
+\2
+# 何かまちがっているみたいよ。\6\2
+### no newline
+It seems like you've made
+a mistake somewhere.\6\2
+# あなたの　たんじょうびは？\6\0
+\2What is your birthday?\0
+
+
+@2 B055/B05A 
+# \2
+# あなたの　たんじょうびは？\0
+\2What is your birthday?\0
+
+
+@2 B056/B05B 
+# \2
+# きょうは　なんにちかしら？\0
+\2What is today's date?\0
+
+
+@2 B057/B05C 
+# \2
+# きょうは　　　\3\1
+# \0
+\2
+\5\5\5Today: \3\1\0
+
+
+@2 B058/B05D 
+# たんじょうび　\3\1
+# 　　　　　これでいいかしら？\0
+Birthday: \3\1
+\5\5\5\5\5\5\5Is this ok?\0
+
+
+@2 B059/B05E 
+# \2
+# \0
+\2\0
+
+
+@2 B1A7/B1AE B1A8/B1AF 
+# \2
+\2
+# きょうは　あまりいいことは　なさそうね。\6\0
+Today, it seems that not\1
+many good things will\1
+happen.\6\0
+
+
+@2 B1A9/B1B0 B1AA/B1B1 B1AB/B1B2 
+# \2
+\2
+# きょうは　それほどかわったことはないわ。\6\0
+Today, nothing\1
+particularly strange\1
+will happen.\6\0
+
+
+@2 B1AC/B1B3 
+# \2
+\2
+# きょうはたのしい　いちにちになりそうね。\6\0
+Today will be a fun day.\6\0
+
+
+@2 B1AD/B1B4 
+# \2
+\2
+# きょうはとっても　ステキなひになるわ♡\6\0
+Today will be a very\1
+wonderful day♡\6\0
+
+
+@2 B1CD/B1ED 
+# １\0
+1\0
+
+
+@2 B1CE/B1EE 
+# どうぶつ\0
+Animals\0
+
+
+@2 B1CF/B1EF 
+# ５\0
+5\0
+
+
+@2 B1D0/B1F0 B1E6/B206 
+# きいろ\0
+Yellow\0
+
+
+@2 B1D1/B1F1 
+# アクセサリー\0
+Accessories\0
+
+
+@2 B1D2/B1F2 
+# ７\0
+7\0
+
+
+@2 B1D3/B1F3 B1E7/B207 
+# あか\0
+Red\0
+
+
+@2 B1D4/B1F4 
+# ２\0
+2\0
+
+
+@2 B1D5/B1F5 
+# ４\0
+4\0
+
+
+@2 B1D6/B1F6 
+# まるい物\0
+Round things\0
+
+
+@2 B1D7/B1F7 
+# あお\0
+Blue\0
+
+
+@2 B1D8/B1F8 
+# あそび\0
+Play\0
+
+
+@2 B1D9/B1F9 
+# ６\0
+6\0
+
+
+@2 B1DA/B1FA 
+# しろ\0
+White\0
+
+
+@2 B1DB/B1FB B1E8/B208 
+# ８\0
+8\0
+
+
+@2 B1DC/B1FC B1EA/B20A 
+# しかくい物\0
+Square things\0
+
+
+@2 B1DD/B1FD 
+# べんきょう\0
+Study\0
+
+
+@2 B1DE/B1FE 
+# あそび\0
+Play\0
+
+
+@2 B1DF/B1FF 
+# ３\0
+3\0
+
+
+@2 B1E0/B200 B1EB/B20B 
+# みず\0
+Water\0
+
+
+@2 B1E1/B201 B1E9/B209 
+# ９\0
+9\0
+
+
+@2 B1E2/B202 
+# もちもの\0
+### as in your possessions
+Property\0
+
+
+@2 B1E3/B203 
+# さんかく\0
+Triangles\0
+
+
+@2 B1E4/B204 
+# みどり\0
+Green\0
+
+
+@2 B1E5/B205 B1EC/B20C 
+# たべもの\0
+Food\0
+
+
+@2 B1B5/B1B9 
+# \2
+\2
+# うれしいできごとがあるわ。\1
+# それは　\3　にかんけいあることよ。\6\0
+There are happy events.\1
+They are related to\1
+“\3”.\6\0
+
+
+
+@2 B1B6/B1BA B1B8/B1BC 
+# \2
+\2
+# きょうの　ラッキーワードは\1
+# \3　よ。\6\0
+Today's lucky word is\1
+“\3”.\6\0
+
+
+@2 B1B7/B1BB 
+# \2
+\2
+# うーん、きょうは　\3　にかんけいある\1
+# ことで、いやなことがありそうよ。\6\0
+### not physical things
+Hmm, seems like there's\1
+unpleasant things about\1
+“\3”.\6\0
+
+
+
+@2 B1BD/B1C1 B1BF/B1C3 
+# \2
+\2
+# それとね・・・うん♡　きょうは\1
+# ステキなであいがありそうよ。\6\0
+### no newline
+Also...Yes♡ It seems like
+you will have a wonderful
+encounter today.\6\0
+
+
+@2 B1BE/B1C2 B1C0/B1C4 
+# \2
+\2
+# それから・・・きょうは　ともだちと\1
+# ケンカしないように気をつけてね。\6\0
+Also...Take care not to\1
+fight with your friends\1
+today.\6\0
+
+
+@2 B1C5/B1C9 
+# \2
+\2
+# からだのちょうしは、\1
+# これからよくなると思うわ。\6\0
+I think your physical\1
+condition will improve\1
+from now.\6\0
+
+
+@2 B1C6/B1CA B1C8/B1CC 
+# \2
+\2
+# あしたも、からだのちょうしは\1
+# きょうとおなじくらいね。\6\0
+Tomorrow, your physical\1
+condition will be the\1
+same as today's.\6\0
+
+
+@2 B1C7/B1CB 
+# \2
+\2
+# 今、すこしからだがよわってるから、\1
+# 病気に気をつけてね。\6\0
+### no newline
+Now, your body has gotten
+slightly weaker, so watch
+out for illnesses.\6\0
+
+
+@2 AE3B/AE39 
+# \2
+\2
+# でもね、うらないって　たくさんの\1
+# みらいの中のひとつなの。\6\2
+However, fortune-telling\1
+tells you only one of\1
+many possible futures.\6\2
+# じぶんのちからしだいで、みらいも\1
+# かわるってこと、わすれないでね。\6\2
+Please don't forget that\1
+### no newline
+you can change the future
+depending on your effort.\6\2
+# \0
+\0
+
+
+@2 B535/B537 
+# \2
+\2
+# エルス：この金物屋のオヤジは\1
+# 　　　　うわさばなしが　すきでね、\6\2
+# 　　　　いろんなことをしってるから、\1
+# 　　　　ときどき　はなしをきくといいよ。\6\2
+Els:The guy at this\1
+ hardware store really\1
+ likes to gossip.\6\2
+ He knows many things,\1
+ so you should listen\1
+ to him once in a while.\6\2
+# \0
+\0
+
+
+@2 B5A5/B5A7 
+# \2
+\2
+# かぎがかかってる。るすのようだ。\6\2
+It's locked.\1
+Seems no one's home.\6\2
+# \0
+\0
+
+
+@2 B5B5/B5B7 
+# \2
+\2
+# \f22けいかん：なんだ、きみか。\1
+# 　　　　　何かようかい？\6\2
+\f22Cop:Oh, it's you.\1
+ Do you want anything?\6\2
+# \f20モモ：どろぼうが入ったんだって？\6\2
+\f20Momo:Did you hear a\1
+ burglar came in?\6\2
+# \f22けいかん：ああ、今しらべてるから\1
+# 　　　　　子供は入ってはダメだよ。\6\2
+\f22Cop:Ah, we're currently\1
+ investigating, so kids\1
+ shouldn't enter.\6\2
+# \0
+\0
+
+
+@2 B5C5/B5C7 
+# \2
+\2
+# \f28リッチー：このまえは　たすかったザマス。\1
+# 　　　　　おかげで、すーっとしたザマス。\6\2
+\f28Richie:You really helped\1
+ me out back there.\6\2
+### more literally "i felt satisfied/refreshed"
+ Thanks to you, I can\1
+ relax again.\6\2
+# \0
+\0
+
+
+@2 B5D5/B5D7 
+# \2
+\2
+# \f28リッチー：洋館に入りたいザマスか？\1
+# 　　　　　あなたもコンサート　やるザマスか？\6\2
+\f28Richie:You wanna get in\1
+### actually more like "you're gonna" but that's too long
+ the mansion? You wanna\1
+ hold a concert too?\6\2
+# 　　　　　いいザマス。これ、洋館のカギザマス。\6\2
+ Alright. Here's the key\1
+ to the mansion.\6\2
+# \0
+\0
+
+
+@2 B5EB/B5ED 
+# \fFF『洋館のカギ』を　てにいれた。\6\2
+\fffYou got the mansion key.\6\2
+# \0
+\0
+
+
+@2 B5FC/B5FE 
+# \2
+\2
+# \f28リッチー：くれぐれも洋館は\1
+# 　　　　　きれいにつかってほしいザマス。\6\2
+### awkward but gets the point across
+\f28Richie:I'd like you to\1
+ always use the mansion\1
+ neatly and tidily.\6\2
+# \0
+\0
+
+
+@2 B75F/B761 
+# \2
+\2
+# \f01モモ：えっとぉ、何かかいてある・・・。\6\2
+\f01Momo:Erm, something's\1
+ written...\6\2
+# \fFF『ほんじつきゅうぎょう。\1
+# 　かんけいしゃいがい、たちいりきんし。』\6\2
+\fff“Closed today.\1
+ Authorized personnel\1
+ only.”\6\2
+# \0
+\0
+
+
+@2 B76B/B76D 
+# \2
+\2
+# 『工場のカギ』を　つかった。\6\2
+Used the factory key.\6\2
+# \0
+\0
+
+
+@2 B78E/B790 
+# \2
+\2
+# \f01モモ：だめだぁ・・・いったんかえろう！\6\2
+Momo:No good...I'll\1
+ be back soon!\6\2
+# \0
+\0
+
+
+@2 B834/B836 
+# \2
+\2
+# 『たちいりきんし。ごようのかたは・・・・・』\6\2
+# もじがかすれてて、よくよめない。\6\2
+### no newline
+“No trespassing. Guests…”
+The letters are blurry,\1
+so you can't read them.\6\2 
+# \0
+\0
+
+
+@2 B840/B842 
+# \2
+\2
+# 『洋館のカギ』を　つかった。\6\2
+Used the mansion key.\6\2
+# \0
+\0
+
+
+@2 B863/B865 
+# \2
+\2
+# モモ：だめだぁ、\1
+# 　　　また、出なおしてこよう。\6\2
+Momo:No good. Let's come\1
+ another time.\6\2
+# \0
+\0
+
+
+@2 B8E5/B8E7 
+# \2
+\2
+# モモ：あら？　こんなところに・・・・・\6\0
+Momo:Huh? What's this\1
+ doing here...\6\0
+
+
+@2 B8F6/B8F8 
+# \2
+\2
+# ラジコンひこうきを　てにいれた。\6\2
+### radio-controlled
+You got an RC airplane.\6\2
+# \0
+\0
+
+
+@2 B953/B955 
+# \2
+\2
+# \f24モンド：いらっしゃいませ。\1
+# 　　　　わたしが、店長のモンドです。\6\2
+\f24Mond:Welcome. I'm the\1
+ store manager, Mond.\6\2
+# \fFF宝石を見る。\1
+# 見ないで行く。\7\2
+\fffLook at the jewels.\1
+Go without looking.\7\2
+# \0
+\0
+
+
+@2 B969/B96B 
+# \2
+\2
+### mind the yen signs that are not backslashes
+# エメラルド　　１７００００えん\1
+# ルビー　　　　１２００００えん\6\2
+Emerald     ¥170,000\1
+Ruby        ¥120,000\6\2
+# ダイヤモンド　３０００００えん\1
+# プラチナ　　　２５００００えん\6\2
+Diamond     ¥300,000\1
+Platinum    ¥250,000\6\2
+# \f1Fモモ：わーーーーっ！\1
+# 　　　すてき♡　うるうる・・・・\6\2
+### she's getting teary-eyed over them
+\f1fMomo:Waaaaaaa~!\1
+ So beautiful♡\6\2
+# \f21クックブック：モモ、もう行くダバ。\1
+# 　　　　　　　どうせ高くてかえないダバ。\6\2
+\f21Cookbook:Momo, let's go.\1
+ They're too expensive\1
+ to buy.\6\2
+# \0
+\0
+
+
+@2 B975/B977 
+# \2
+\2
+# \f21ルピピ：ええーーっ、見ないのー？\1
+# 　　　　見たかったのにー。\6\2
+\f21Rupipi:Whaaat, we're not\1
+### no newline
+ looking? But I wanted to
+ see them...\6\2
+# クックブック：どうせ高くてかえないダバ。\6\2
+Cookbook:They're too\1
+ expensive to buy.\6\2
+# \0
+\0
+
+
+@2 B988/B98A 
+# \2
+\2
+# \f25モンド：ごうとうがきても、けいさつが\1
+# 　　　　何もしてくれないとは・・・\6\2
+\f25Mond:A robber came, and\1
+ the police aren't even\1
+ doing anything...\6\2
+# 　　　　このままでは店が\1
+# 　　　　つぶれてしまうーーっ！\6\2
+ If things keep going\1
+ this way, my store'll\1
+ be destroyed!!\6\2
+# \0
+\0
+
+
+@2 B9AB/B9AD 
+# \2
+\2
+# \f24モンド：ありがとうございます。\6\2
+\f24Mond:Thank you very much.\6\2
+# 　　　　あなたが、けいかんにヤル気を\1
+# 　　　　おこさせてくれたおかげで、\6\2
+# 　　　　宝石がもどってきました。\1
+### no newline
+ Because you restored the
+ police's willpower, we\1
+ got the jewels back.\6\2
+# 　　　　おれいに、やすめのものですが、\6\2
+# 　　　　この中からどれでも\1
+# 　　　　１つさしあげましょう。\6\2
+ It's not much, but as\1
+ thanks, I'll give you\1
+ one thing from here.\6\2
+# \f1Fモモ：えっ！　ほんとに、いいの？\1
+# 　　　どれにしようかな？わくわく。\6\2
+\f1fMomo:Huh? Is it really\1
+ ok? I wonder which one\1
+ I'll pick! So exciting…\6\2
+# \f21クックブック：モモ！\1
+# 　　　　　　　あれっ、あれっ！\6\2
+\f21Cookbook:Momo!\1
+ Look, look!\6\2
+# \f1Fモモ：えっ？　このパール？\1
+# 　　　ほんと、すてきね・・・・・\6\2
+\f1fMomo:Huh? This pearl?\1
+ It's really lovely.....\6\2
+# \f21クックブック：それが、ドリームパールじゃよ。\6\2
+\f21Cookbook:That is a\1
+ Dream Pearl.\6\2
+# \f24モンド：はて、あんなパール\1
+# 　　　　うちにあったかな？\6\2
+\f24Mond:Does that pearl\1
+ really suit you...?\6\2
+# 　　　　まあいいか・・・では、\1
+# 　　　　それをさしあげます。\6\2
+ Well, whatever... I'll\1
+ give it to you.\6\2
+# \0
+\0
+
+
+@2 B9BC/B9BE 
+# \fFFドリームパールをてにいれた。\6\2
+You got a Dream Pearl.\6\2
+# \0
+\0
+
+
+@4 B1AB/B1AD 
+# \2
+\2
+# \f20モモ：るすなのに、まどがあいてるなんて、\1
+# 　　　ぶようじんだなあ・・・。\6\2
+### no newline
+\f20Momo:Nobody's home, but\1
+ the window is open...\1
+ How careless!\6\2
+# \0
+\0
+
+
+@4 B1BB/B1BD 
+# \2
+\2
+# \f29リッチー：こまったザマス。こまったザマス。\1
+# 　　　　　どろぼうが入って・・・・\6\2
+\f29Richie:Oh me, oh my!\1
+ A robber came in, and…\6\2
+# \f20モモ：そんなにだいじなものが　ぬすまれたの？\6\2
+\f20Momo:Did he steal\1
+ something really\1
+ precious?\6\2
+# \f29リッチー：ちがうザマス。何がぬすまれたのか\1
+# 　　　　　わからないんザマス！\6\2
+\f29Richie:No. I don't know\1
+ what he stole!\6\2
+# \f20モモ：はにゃ？\6\2
+### this one is a big shame imo, hanya is so cute
+### untranslatable kamiword
+\f20Momo:Huh?\6\2
+# \f29リッチー：だいじなものは　ぬすまれてないザマスが\1
+# 　　　　　何がとられたか、わからないと・・・・\6\2
+# 　　　　　気になって、気になって\1
+# 　　　　　しょうがないザマスー！\6\2
+\f29Richie:My valuables\1
+### no newline
+ aren't gone, but I gotta
+ figure out what it was!\6\2
+ I just can't stop\1
+ worrying about it!\6\2
+# \f20モモ：うーん・・・これはきっと\1
+# 　　　はんにんののこした　ちょうせんだわ！\6\2
+\f20Momo:Hmmm...This is\1
+ definitely a challenge\1
+ left by the culprit!\6\2
+# \f21クックブック：ちがうと思うがのう・・・。\1
+# 　　　　　　　それで、どうするんじゃ？\6\2
+\f21Cookbook:I think not...\1
+ Well, what'll you do?\6\2
+# \fFFちょうせんをうける。\1
+# かえる。\7\2
+\fffAccept the challenge.\1
+Return.\7\2
+# \0
+\0
+
+
+@4 B1D1/B1D3 
+# \2
+\2
+# \f22けいかん：こらこら、子供は入っちゃいかんと\1
+# 　　　　　いっただろう！\6\2
+\f22Cop:Hey, I TOLD you that\1
+ kids can't enter,\1
+ didn't I??!!\6\2
+# \0
+\0
+
+
+@4 B1DD/B1DF 
+# \2
+\2
+# \f1Fモモ：よーし、いっちょ　やりますか。\6\2
+\f1f
+Momo:Alright, well then,\1
+ let's do it!\6\2
+# \0
+\0
+
+
+@4 B200/B202 
+# \2
+\2
+# \f22けいかん：はいはい、あんたもかえりなさい。\6\2
+\f22
+Cop:Ok ok, you go\1
+ home too.\6\2
+# \0
+\0
+
+
+@4 B20C/B20E 
+# \2
+\2
+# \f28リッチー：たすかったザマス。\1
+# 　　　　　これで、すっきりしたザマス。\6\2
+\f28Richie:You really helped\1
+ me out there.\1
+ Now I can finally relax…\6\2
+# 　　　　おれいにこれを　うけとってほしいザマス。\6\2
+ As thanks, I'd like you\1
+ to have this.\6\2
+# \0
+\0
+
+
+@4 B21D/B21F 
+# \fFFドリームパールを　てにいれた。\6\2
+\fffYou got a Dream Pearl.\6\2
+# \0
+\0
+
+
+@4 B238/B23A 
+# \2
+\2
+# \f21チャーモ：あいかわらず、ぶようじんだなあ。\6\2
+\f21Charmo:Still careless,\1
+ as always...\6\2
+# \0
+\0
+
+
+@4 B4BD/B4BF 
+# \2
+\2
+# \f22けいかん：おいおい、そんなところで\1
+# 　　　　　木登りをしてはいかんよ！\6\2
+\f22Cop:Hey, you can't climb\1
+ that tree there!\6\2
+# \f1Fモモ：ちょっと気になることがあるのよ。\1
+# 　　　おねがいっ、見のがして！\6\2
+\f1fMomo:But there's some\1
+### no newline
+ thing I wanna check out.
+ Please, overlook it!\6\2
+# けいかん：いかん、いかん、　なにしろ\1
+# \f22　　　　　おれは『けいかん』だからな。\6\2
+\f22Cop:No, no! Don't you\1
+ know I'm a police\1
+ officer?\6\2
+# \0
+\0
+
+
+@4 B588/B58A 
+# \2
+\2
+# \f49チャンプ：おいらのなは『チャンプ』。でも人は、\1
+# 　　　　　『木登りチャンプ』ってよぶぜ。\6\2
+\f49Champ:My name is Champ,\1
+ but people call me the\1
+ “Tree-climbing Champ”.\6\2
+# 　　　　　今から出すもんだいが、ぜんぶわかったら\1
+# 　　　　　木登りをおしえてやろう。\6\2
+ I'm gonna ask you some\1
+ questions, and if you\1
+ can get them all...\6\2
+ I'll teach you how to\1
+ climb trees!\1
+# 　　　　　いくぞっ！だい１もん。\6\2
+ Let's go! Question 1.\6\2
+# \0
+\0
+
+
+@4 B5AE/B5B0 
+# \2
+\2
+# チャンプ：まだまだあまいな。かおをあらって\1
+# 　　　　　出なおしてくるんだな。\6\2
+### it's not "wash your face"
+Champ:You've still got a\1
+ lot to learn. Come back\1
+ after you find out more.\6\2
+# \0
+\0
+
+
+@4 B5BF/B5C1 
+# \2
+\2
+# チャンプ：ふん、こんなのきほんだぜ。\1
+# 　　　　　つぎ、だい２もん。\6\2
+Champ:Hmpf, that was\1
+ just the basics.\1
+ Next! Question 2.\6\2
+# \0
+\0
+
+
+@4 B5E5/B5E7 
+# \2
+\2
+# チャンプ：まだまだあまいな。かおをあらって\1
+# 　　　　　出なおしてくるんだな。\6\2
+### note: this is a duplicate
+Champ:You've still got a\1
+ lot to learn. Come back\1
+ after you find out more.\6\2
+# \0
+\0
+
+
+@4 B5F6/B5F8 
+# \2
+\2
+# チャンプ：なかなかやるな、つぎで　さいごだ。\6\2
+### no newline
+Champ:You're pretty good.
+ Next, the finale!\6\2
+# \0
+\0
+
+
+@4 B61C/B61E 
+# \2
+\2
+# チャンプ：まだまだあまいな。かおをあらって\1
+# 　　　　　出なおしてくるんだな。\6\2
+### note: this is a duplicate
+Champ:You've still got a\1
+ lot to learn. Come back\1
+ after you find out more.\6\2
+# \0
+\0
+
+
+@4 B62D/B62F 
+# \2
+\2
+# チャンプ：うむ、おまえなかなか　あたまがいいな。\1
+# 　　　　　やくそくどおり、木登りをおしえてやる。\6\2
+Champ:Hm, you're pretty\1
+### no newline
+ smart. As promised, I'll
+ teach you tree-climbing.\6\2
+# 　　　　　いいか、　まず木にむかって・・・\1
+# 　　　　　それから思いっきりジャンプするんだ。\6\2
+ OK, first you face the\1
+ tree...then you jump\1
+ with all your might!\6\2
+# 　　　　　これでおまえも木登りめいじん。　うん、\1
+# 　　　　　『木登りプリンセス』とよんであげよう。\6\2
+ Now you're a tree-\1
+ climbing master!\1
+ Yes, I'll call you the…\6\2
+### timing change because i can't fit it all on one line
+ Tree-climbing Princess!\6\2
+# \f43モモ：いやよ、そんななまえ・・・\6\1
+# \6\2
+\f43Momo:I don't really like\1
+ that name...\6\2
+# \0
+\0
+
+
+@4 B656/B658 
+# \2
+\2
+# \f49チャンプ：やあ、げんきで木登りしてるかい？\6\2
+\f49Champ:Hey, you havin'\1
+ fun climbing trees?\6\2
+# \0
+\0
+
+
+@4 B666/B668 
+# \2
+\2
+# \f42モモ：チャンプ！　おひるごはんだから\1
+# 　　　家にかえってきてってさ！\6\2
+### no newline
+\f42Momo:Champ! Your mom says
+ it's lunch time, so\1
+ please come home!\6\2
+# \f49チャンプ：さすがのおいらも、はらがへっては\1
+# 　　　　　木登りできない。\6\2
+### probably trying to indicate that he's not hungry
+\f49Champ:Even someone like\1
+ me can't climb trees\1
+ on an empty stomach.\6\2
+# \0
+\0
+
+
+@4 B67B/B67D 
+# \2
+\2
+# \f49チャンプ：『すぐかえる』って、いっておいて。\6\2
+\f49Champ:Tell her I'll\1
+ come home soon.\6\2
+# \0
+\0
+
+
+@4 B962/B969 
+# \2
+\2
+# アイスクリーム屋のおねえさんの\1
+# なまえは？\6\2
+What is the name of the\1
+lady at the ice cream\1
+shop?\6\2
+# ミント\1
+# シャーベット\7\0
+Mint\1
+Sherbet\7\0
+
+
+@4 B963/B96A 
+# \2
+\2
+# 金物屋さんにむかってひだりの\1
+# たてものは？\6\2
+Which building is to the\1
+left of the hardware\1
+store?\6\2
+# アイスクリーム屋\1
+# フルーツショップ\7\0
+Ice cream shop\1
+Fruits shop\7\0
+
+
+@4 B964/B96B 
+# \2
+\2
+# 交番のとなりに木は何本？\6\2
+### in this case i go with "police box" because it's a small building ingame.
+### since "police station" conjures an image of a large building,
+### i think a first-time player might mistakenly think that sick's house is
+### part of the police station, since you can't get inside until after you
+### do this quiz. someone like that might mistakenly assume the answer is
+### 1 on the left, and 2 on the right
+How many trees are next\1
+to the police box?\6\2
+# むかって左に２本、右に１本\1
+# むかって左に１本、右にはない\7\0
+2 left, 1 right\1
+1 left, 0 right\7\0
+
+
+@4 B965/B96C 
+# \2
+\2
+# アパートにひっこしてきた\1
+# ジュンの　へやは？\6\2
+What is Jun's apartment\1
+room number?\6\2
+# ２０２ごうしつ\1
+# １０３ごうしつ\7\0
+No.202\1
+No.103\7\0
+
+
+@4 B966/B96D 
+# \2
+\2
+# 本屋のブックさんの\1
+# おとうとの　しょうばいは？\6\2
+Where does Book's little\1
+brother work?\6\2
+# 金物屋\1
+# 電器屋\7\0
+Hardware store\1
+Electronics store\7\0
+
+
+@4 B967/B96E 
+# \2
+\2
+# 宝石店でうっている物の中で\1
+# 一番高いものは？\6\2
+What is the most\1
+expensive thing sold at\1
+the jewel store?\6\2
+# ダイヤモンド\1
+# プラチナ\7\0
+Diamond\1
+Platinum\7\0
+
+
+@4 B968/B96F 
+# \2
+\2
+# 工場のとなりに\1
+# すんでいる人の　なまえは？\6\2
+What is the name of the\1
+person who lives next\1
+to the factory?\6\2
+# ダツマ\1
+# ボルトー\7\0
+Datsuma\1
+Bolto\7\0
+
+
+@4 BABE/BAC0 
+# \2
+\2
+# \f25モンド：ごうとうだーっ！\1
+# 　　　　だれか、つかまえてくれーー！\6\2
+\f25Mond:It's a robber!\1
+ Someone, get him!\6\2
+# \0
+\0
+
+
+@4 BB04/BB06 
+# \2
+\2
+# \f20モモ：あかないや・・・・\6\2
+\f20Momo:It won't open...\6\2
+# \f21チャーモ：あれっ？\1
+# 　　　　　ドアに何かかいてある・・・。\6\2
+\f21Charmo:Huh? Something's\1
+ written on the door...\6\2
+# \fFF『かってに　よそのドアをあけてはいけません。\1
+# 　　　　　　　　これはゲームだからいいけどね！』\6\2
+\fff“Don't just go around\1
+ opening other people's\1
+ doors!”\6\2
+“...although this is a\1
+ game, so it's ok!”\6\2
+# \0
+\0
+
+
+@4 BB8E/BB90 
+# \2
+\2
+# 『ただいまパトロール中』\6\2
+“Currently On Patrol”\6\2
+# \0
+\0
+
+
+@4 BB9A/BB9C 
+# \2
+\2
+# \f22けいかん：このまえ、きみがつれてきた　ふけいさん\1
+# 　　　　　かっこよかったよなあー。\6\2
+### i.e. momo herself who turned into her and the cop thinks it's someone else
+\f22Cop:That policewoman who\1
+ was with you earlier\1
+ was really cool!\6\2
+# 　　　　　きみの　おねえさんかい？\1
+# 　　　　　こんど、しょうかいしてくれよ。\6\2
+ Was she your older\1
+ sister? Why don't you\1
+ introduce her to me?\6\2
+# \0
+\0
+
+
+@4 BC39/BC3B 
+# \2
+\2
+# \f2Bねこ：にゃーっ！にゃーっ！\6\2
+\f2bCat:Meoow! Meoow!\6\2
+# \f20モモ：あれ？　このまえのねこだよ。\1
+# 　　　何してるんだろ？\6\2
+\f20Momo:Huh? You're the cat\1
+ from earlier.\1
+ What're you up to?\6\2
+# \f2Bねこ：にゅあーっ、にゃあ、にゃあっ！\6\2
+\f2bCat:Meoooow, meow, meoow!\6\2
+# \f21チャーモ：『ここをほれ』って\1
+# 　　　　　　いってるみたいだよ？！\6\2
+\f21Charmo:Seems like she's\1
+ saying “look at this!”\6\2
+# \f20モモ：何かしら・・・・・・あっ！\1
+# 　　　こんなところに！\6\2
+\f20Momo:I wonder what...ah!\1
+ What's this doing here?\6\2
+# \0
+\0
+
+
+@4 BC4A/BC4C 
+# \2
+\2
+# \f2Aねこ：にゃあーーっ♡\6\2
+# \0
+\f2aCat:Meooooow♡\6\2
+\0
+
+
+@4 BC5B/BC5D 
+# \fFFドリームパールを　てにいれた。\6\2
+\fffYou got a Dream Pearl.\6\2
+# \f21ルピピ：きっと　このまえのおれいのつもりなのよ。\6\2
+### no newline
+\f21Rupipi:She must be trying
+ to thank you for\1
+ earlier.\6\2
+# \f1Fモモ：ありがとう、ねこさん！\6\2
+\f1fMomo:Thank you, Mr. Cat!\6\2
+# \0
+\0
+
+
+@4 BD82/BD84 
+# \2
+\2
+# \f2Bねこ：にゃあ、にゃあーっ！\6\2
+\f2bCat:Meow, meoow!\6\2
+# \f20モモ：あっ、ねこが・・・・・\6\2
+\f20Momo:Ah, the cat's.....\6\2
+# \f21クックブック：どうやら登ったきり\1
+# 　　　　　　　おりられなくなったようじゃのう。\6\2
+\f21
+Cookbook:Seems like she\1
+ can't get down after\1
+ she climbed up there.\6\2
+# \0
+\0
+
+
+@4 BDA5/BDA7 
+# \2
+\2
+# \f1Fモモ：ほら、いっしょにおりよう。\6\2
+\f1fMomo:C'mon, let's get\1
+ down together.\6\2
+# \f2Bねこ：にゃあーっ\6\2
+\f2bCat:Meoooow\6\2
+# \f2Aねこ：にゃーっ！\6\0
+\f2aCat:Meoow!\6\2
+\0
+
+
+@4 BDC8/BDCA 
+# \2
+\2
+# \f21チャーモ：あははっ、\1
+# 　　　　　『ありがとう』だってさ！\6\2
+\f21Charmo:Ahaha, she's\1
+ saying “thank you”!\6\2
+# \0
+\0
+
+
+@4 BEA2/BEA4 
+# \2
+\2
+# \f42モモ：あ・・・こんなところに・・・\6\0
+\f42Momo:Ah...what's this\1
+ doing here?\6
+\0
+
+
+@4 BEB3/BEB5 
+# \2
+\2
+# ドリームパールを　てにいれた。\6\2
+You got a Dream Pearl.\6\2
+# \0
+\0
+
+
+@5 8047/8049 
+# \2
+\2
+# \f09ブック：いらっしゃい！\1
+# 　　　　何かごようかな？\6\2
+\f09Book:Welcome!\1
+ You want anything?\6\2
+# \0
+\0
+
+
+@5 8056/8058 
+# \2
+\2
+# \f01モモ：あれっ？　　おじさんってば、\1
+# 　　　電器屋じゃなかったっけ？\6\2
+### must admit i'm not sure about this one.
+### were they talking about an old man before the events of the game or something?
+\f01Momo:Huh? The “old man”\1
+ wasn't the guy at the\1
+ electronics store?\6\2
+# \f09ブック：あははは、電器屋のエレックは\1
+# 　　　　ふたごの　おとうとなんだよ。\6\2
+### "my twin younger brother" doesn't sound right so i split it up
+\f09Book:Ahaha, that's Elec,\1
+ my twin brother. He's\1
+ the younger one.\6\2
+# \f02チャーモ：ほんとだ、あの　ぶあいそな\1
+# 　　　　　おじさんに　そっくり！\6\2
+\f02Charmo:Seriously? He was\1
+ just like a grumpy\1
+ old man!\6\2
+# \f09ブック：おかしいな？　エレックは\1
+# 　　　　あいそのいいやつなんだがなぁ\6\2
+# 　　　　あいつもつかれてるのかな？\6\2
+\f09Book:That's odd. He's a\1
+ really friendly guy...\1
+ Y'think he's also tired?\6\2
+# \0
+\0
+
+
+@5 806E/8070 
+# \2
+\2
+# \f09ブック：ときどきでいいから、エレックのところに\1
+# 　　　　あそびにいってくれないか。\6\2
+### more literally "it's ok if it's once in a while, so..."
+\f09Book:Why don't you go\1
+ and visit Elec every\1
+ once in a while?\6\2
+# \0
+\0
+
+
+@5 807C/807E 
+# \2
+\2
+# \f09ブック：さっき、バーガーショップに行ったら、\1
+# 　　　　おきゃくさんが　いっぱいだったなあ。\6\2
+\f09Book:I just went to the\1
+### no newline
+ burger shop, and it sure
+ was full of customers!\6\2
+# 　　　　何でも、アルバイトがでてこなくて\1
+# 　　　　こまっているらしい。\6\2
+### no newline
+ I heard that none of the
+ workers were coming.\1
+ Seems like a problem.\6\2
+# \0
+\0
+
+
+@5 808C/808E 
+# \2
+\2
+# \f09ブック：このさきの　かどをまがると、\1
+# 　　　　まちはずれのリッチーさんのいえだよ。\6\2
+### i say "ms. richie" because otherwise people'll think she's a guy
+### not mentioning the outskirts because book's house is right next
+### to said corner, and i'm out of screen space anyway
+\f09Book:If you go ahead and\1
+ turn the corner, you'll\1
+ hit Ms. Richie's house.\6\2
+# 　　　　リッチーさんの家は外から見ただけじゃ\1
+# 　　　　わからないかもしれないけど、\6\2
+# 　　　　かなりの　お金もちらしい。\6\2
+### "only seen it from outside, so I'm not really sure, but..."
+ I've only seen it from\1
+ outside, but she seems\1
+ pretty loaded...\6\2
+# \0
+\0
+
+
+@5 809C/809E 
+# \2
+\2
+# \f09ブック：さっき、おまわりさんが見まわりにきたぞ。\1
+# 　　　　なんだかやけに、気あいが入ってたな。\6\2
+### no newline
+\f09Book:Just now, a cop came
+ on patrol. He was really
+ fired up...\6\2
+# \0
+\0
+
+
+@5 80A8/80AA 
+# \2
+\2
+# \f09ブック：おとうとのエレックのちょうしはどうだい？\6\2
+\f09Book:How's my brother\1
+ Elec doing? Is he\1
+ healthy?\6\2
+# \0
+\0
+
+
+@5 8309/830B 
+# \2
+\2
+# ダツマ：おかしいなあ・・・電器屋のオヤジ\1
+# 　　　　やけに、きげんがわるいみたいだ。\6\2
+### no newline
+Datsuma:Strange...the guy
+ at the electronics store
+ seems really grumpy.\6\2
+# \0
+\0
+
+
+@5 8319/831B 
+# \2
+\2
+# ダツマ：宝石店のそばで、\1
+# 　　　　おまわりさんがさぼってたよ。\6\2
+Datsuma:The cop by the\1
+ jewel store was totally\1
+ slacking off!\6\2
+# 　　　　こまったもんだなあ。\6\2
+ That's gotta be a\1
+ problem.\6\2
+# \0
+\0
+
+
+@5 8329/832B 
+# \2
+\2
+# ダツマ：きみがもっているパール、\1
+# 　　　　どこかで見たことがあるなあ・・・\6\2
+# 　　　　たしか、そこの工場ではたらいてる人が\1
+# 　　　　おなじものを　もってたよ。\6\2
+### no newline
+Datsuma:That pearl you've
+ got...I've seen it\1
+ somewhere before.\6\2
+### no newline
+ Someone who works at the
+ factory over there had\1
+ one just like yours.\6\2
+# \0
+\0
+
+
+@5 8339/833B 
+# \2
+\2
+# ダツマ：『ばく』って、どうぶつをしってるかい？\1
+# 　　　　みずべにすむ　はなの長いどうぶつで、\6\2
+Datsuma:Do you know what\1
+ a “Baku” is?\6\2
+### no newline
+ It's a long-nosed animal
+ that lives near water.\6\2
+# 　　　　ちゅうごくでは『わるい夢をたべる』って\1
+# 　　　　いわれているんだ。\6\2
+ In China, it is said\1
+ to eat dreams.\6\2
+# \0
+\0
+
+
+@5 8345/8347 
+# \2
+\2
+# ダツマ：さいきん、どうしちゃったのかなあ\1
+Datsuma:What on earth\1
+ is happening recently?\6\2
+# 　　　　まちの人はなんだか無気力になっちゃうし、\6\2
+### no newline
+ The townsfolk are losing
+ their energy...\6\2
+# 　　　　へんな　どうぶつはうろついてるし、\1
+ A strange animal's been\1
+ wandering around...\6\2
+# 　　　　ごうとうに、こんどは　どろぼう・・・・\6\2
+ A robbery,\1
+ now a burglar...\6\2
+# 　　　　なんだか、いやなかんじがするなあ・・・。\6\2
+ Somehow I'm getting a\1
+### no newline
+ really bad feeling about
+ this...\6\2
+# \0
+\0
+
+
+@5 853A/853C 
+# \2
+\2
+# \f47バレンシア：この近くにある洋館ねえ、\1
+# 　　　　　　無人のはずなんだけど・・・・。\6\2
+\f47Valencia:You know,\1
+ nobody lives in that\1
+ mansion around here...\6\2
+# 　　　さいきん何かのけはいを　かんじるのよ・・。\6\2
+ But recently I've been\1
+ feeling some kind of\1
+ presence...\6\2
+# 　　　なーんてね！\1
+# 　　　ちょっと、ミステリーでしょ？\6\2
+ Nah, just kidding!\1
+### no newline
+ But still, it's a little
+ mysterious, isn't it?\6\2
+# \0
+\0
+
+
+@5 8548/854A 
+# \2
+\2
+# \f47バレンシア：こまったわ、もうおひるごはんなのに\1
+# 　　　　　　うちの子　まだもどらないのよ。\6\2
+\f47Valencia:It's already\1
+ lunch time, but my son\1
+ hasn't come home yet.\6\2
+# 　　　　　　あなた、わるいんだけど・・・\1
+# 　　　　　　うちの子　見かけたら、\6\2
+### first line to make up for the lack of space for こまったわ
+ I'm so worried...\1
+ Sorry to bother you…but\1
+ if you see him,\6\2
+# 　　　　　　かえるように　つたえてくれない？\1
+# 　　　　　　チャンプって子なの。\6\2
+ could you please tell\1
+ him to come home?\1
+ His name is Champ.\6\2
+# \0
+\0
+
+
+@5 855D/855F 
+# \2
+\2
+# \f47バレンシア：おねがいね。\6\2
+\f47Valencia:Please...\6\2
+# \0
+\0
+
+
+@5 856D/856F 
+# \2
+\2
+# \f47バレンシア：うちの子見つかった？　ごめんね、\1
+# 　　　　　　へんなことたのんじゃって。\6\2
+\f47Valencia:You found him?\1
+### more literally "asking you to do"
+ Sorry for making you do\1
+ something like that.\6\2
+# 　　　　　　おれいに、これあげるわ。\6\0
+ I'll give you this\1
+ as thanks.\6\2
+\0
+
+
+@5 857E/8580 
+# \2
+\2
+# \fFFバナナを　てにいれた。\6\2
+\fffYou got a banana.\6\2
+# \0
+\0
+
+
+@5 8599/859B 
+# \2
+\2
+# \f47バレンシア：うちの子、今　なつやすみの\1
+# 　　　　　　しゅくだいやらせてるの。\6\2
+\f47Valencia:Right now, I'm\1
+ making Champ do his\1
+ summer homework.\6\2
+# 　　　　　　またあとで、あそんでやってね。\6\2
+### i think this is more like it, and not "please play with him after he's done"
+ You can play with him\1
+ after he's done.\6\2
+# \0
+\0
+
+
+@5 8776/8778 
+# \2
+\2
+# \f08メロディー：いらっしゃい。\1
+# 　　　　　　いいレコードをにゅうかしたのよ。\6\2
+# 　　　　　　きいてかない？\6\2
+### "got" as in they just arrived as new stock
+\f08Melody:Welcome. We got\1
+ some good records!\1
+ Want to listen?\6\2
+# \fFFえんりょする。\1
+# きいて行く。\7\2
+# \0
+\fffHold off.\1
+Listen.\7\2\0
+
+
+@5 878C/878E 
+# \2
+\2
+# \f08　　　　メロディー：そう、ざんねんね。\6\2
+\f08Melody:Hm, that's\1
+ too bad.\6\2
+# \0
+\0
+
+
+@5 8798/879A 
+# \2
+# \0
+\2\0
+
+
+@5 87A4/87A6 
+# \2
+\2
+# \f08　　　　十字ボタンできょくをえらんで、\1
+# 　　　　Ａボタンでスタート。\6\2
+\f08 Select a song with the\1
+ D-Pad, and press the A\1
+ Button to play it.\6\2
+# \1
+# 　　　　かえりたい時はＢボタンをおしてね。\6\2
+ When you want to leave,\1
+ press the B Button.\6\2
+# \0
+\0
+
+
+@5 8ABE/8AC0 
+# \2
+\2
+# \f07ミント：インド人もびっくり！\1
+# 　　　　おいしいアイスはいかが？\6\2
+\f07
+### this is someone from india, not an american indian or something
+Mint:An Indian came! How\1
+### no newline
+ shocking! How about some
+ delicious ice cream?\6\2
+# \0
+\0
+
+
+@5 8ACE/8AD0 
+# \2
+# \f07ミント：フランス人もびっくり！\1
+# 　　　　おいしいアイスはいかが？\6\2
+### "a french" sounds weird. but no space
+Mint:A French came! How\1
+### no newline
+ shocking! How about some
+ delicious ice cream?\6\2
+# \0
+\0
+
+
+@5 8ADE/8AE0 
+# \2
+\2
+# \f07ミント：おとなりのおとこの子、アイスがすきで、\1
+# 　　　　おとくいさんだったのに・・・・\6\2
+\f07Mint:The boy next door\1
+ loves ice cream, and he\1
+ was a regular customer…\6\2
+# 　　　　さいきんこないわ・・・。\1
+# 　　　　どうしたのかしら？\6\2
+ But lately, he hasn't\1
+ been coming...\6\2
+ I wonder what's wrong?\6\2
+# \0
+\0
+
+
+@5 8AEE/8AF0 
+# \2
+\2
+# \f07ミント：ソビエト人・・・は、もういないけど、\1
+# 　　　　おいしいアイスはいかが？\6\2
+\f07
+### i don't think there is a demonym for a soviet person
+Mint:A Russian...hasn't\1
+### no newline
+ come yet. How about some
+ delicious ice cream?\6\2
+# \0
+\0
+
+
+@5 8AFA/8AFC 
+# \2
+\2
+# \f07ミント：さいきんね、あさ、ひる、ばんと\1
+# 　　　　いちにち３かいも　アイスをかいにくる\6\2
+# 　　　　おとこの人がいるの。\1
+# 　　　　よっぽどすきなのね♡　　アイスが・・・・\6\2
+### no newline
+\f07Mint:Lately, there's been
+ a man buying ice cream\1
+ 3 whole times a day.\6\2
+ Breakfast, lunch, and\1
+ dinner...he must really\1
+ love ice cream♡\6\2
+# \0
+\0
+
+
+@5 8C57/8C59 
+# \2
+\2
+# \f0Aエレック：・・・・・・・・\1
+# 　　　　　何だ？　なんかようか？\6\2
+\f0aElec:.......What?\1
+ Whaddya want?\6\2
+# \f02チャーモ：ひゃーっ\1
+# 　　　　　ぶあいそな、おじさんだなあ。\6\2
+\f02Charmo:Geez, he sure\1
+ is one grumpy old man.\6\2
+# \0
+\0
+
+
+@5 8C90/8C92 
+# \2
+\2
+# \f0Aエレック：ようじがないなら\1
+# 　　　　　出てってくれ。\6\2
+\f0aElec:If you've got\1
+ nothing to do here,\1
+ then scram!\6\2
+# \0
+\0
+
+
+@5 8CA5/8CA7 
+# \2
+\2
+# \f0Aエレック：・・・おもてのテレビ？\1
+# 　　　　　ああ、ありゃこわれてんだよ・・・\6\2
+\f0aElec:...the TV up front?\1
+ Yeah, that thing's\1
+ totally busted.\6\2
+# 　　　　　ようじがすんだら\1
+# 　　　　　出てってくれ。\6\2
+ Now, if you're done\1
+ here, then get out!\6\2
+# \0
+\0
+
+
+@5 8CB5/8CB7 
+# \2
+\2
+# \f0Aエレック：ごうとう　つかまえるの\1
+# 　　　　　てつだったそうだな。\6\2
+# 　　　　　よくやるぜ、あんたも。\6\2
+\f0a
+Elec:I heard you helped\1
+ catch the robber. How\1
+ could YOU do that?\6\2
+# \0
+\0
+
+
+@5 8CC5/8CC7 
+# \2
+\2
+# \f0Aエレック：ごうとう　つかまえたと思ったら、\1
+# 　　　　　こんどはバーガー屋てつだったって？\6\2
+# 　　　　　よっぽどひまなんだな、\1
+# 　　　　　あんた・・・・。\6\2
+\f0a
+Elec:I thought you\1
+ caught the robber, but\1
+ now you helped at the\6\2
+ burger shop? You must\1
+ have an awful lot of\1
+ free time.\6\2
+# \0
+\0
+
+
+@5 8CD5/8CD7 
+# \2
+\2
+# \f0Aエレック：あんたのもってるパールと\1
+# 　　　　　おんなじもんを、\6\2
+# 　　　　　工場長のファクトがもってたぜ。\1
+# 　　　　　あいつがもってるぐらいじゃ、\6\2
+# 　　　　　どうせ、やすものなんだろ？\6\2
+\f0a
+### no newline
+Elec:The factory manager,
+ “Fact”, had a pearl\1
+ just like yours.\6\2
+ It's gotta be pretty\1
+ cheap for someone like\1
+ him to have one.\6\2
+# \0
+\0
+
+
+@5 8CEA/8CEC 
+# \2
+\2
+# \f0Aエレック：工場長の家？　さあな・・・\1
+# 　　　　　ただ、アパートにすんでる\6\2
+# 　　　　　ケンってやつが、ファクトといっしょに\1
+# 　　　　　あるいてたことがあるなあ・・・\6\2
+\f0a
+Elec:Factory manager's\1
+ house? Well...He was\1
+ walking together with\6\2
+ Ken, who lives in the\1
+ apartments.\6\2
+# \0
+\0
+
+
+@5 8CFA/8CFC 
+# \2
+\2
+# \f0Aエレック：よう・・・・、ひまだったら\1
+# 　　　　　そのへんでテレビでもみてな。\6\2
+# 　　　　　どうせ、きゃくなんて\1
+# 　　　　　こねぇんだ・・・・。\6\2
+\f0a
+### no newline
+Elec:Yo...If you're free,
+ take a look at the TV\1
+ around here.\6\2
+ Customers aren't\1
+ coming...\6\2
+# \0
+\0
+
+
+@5 8D0A/8D0C 
+# \2
+\2
+# \f0Aエレック：きいたか？\1
+# 　　　　　まちはずれのリッチーさんとこによ、\6\2
+# 　　　　　どろぼうが入ったってよ。\1
+# 　　　　　あの家は、ぶようじんだったからなあ。\6\2
+\f0a
+Elec:Have you heard?\1
+ A burglar broke into\1
+ Ms. Richie's house.\6\2
+ She lives on the\1
+### no newline
+ outskirts. Must be cause
+ she's so careless...\6\2
+# \0
+\0
+
+
+@5 8D1A/8D1C 
+# \2
+\2
+# \f0Aエレック：そういやぁ、アパートのリュウってやつに\1
+# 　　　　　『コンサートをひらくから』って、\6\2
+# 　　　　　洋館の　はいせんこうじを\1
+# 　　　　　たのまれたことがあったなあ。\6\2
+\f0a
+Elec:Hmm...Ryuu at the\1
+### no newline
+ apartments once asked me
+ to do some wiring work\6\2
+ at the mansion. Said he\1
+ wanted to have a\1
+ concert there.\6\2
+# \0
+\0
+
+
+@5 8D26/8D28 
+# \2
+\2
+# \f0Aエレック：あんたが何でいろいろやってるか\1
+# 　　　　　しらねぇけどな・・・・・\6\2
+\f0a
+Elec:I don't know why\1
+ you're doing all this\1
+ crazy stuff, but...\6\2
+# \f5F　　　　　まあ・・・、せいぜい\1
+# 　　　　　がんばるんだな。\6\2
+\f5f
+ Well...do the best\1
+ you can.\6\2
+# \0
+\0
+
+
+@5 90CB/90CD 
+# \2
+\2
+# \f48ボルトー：やあやあ、こんなうわさがあるのを\1
+# 　　　　　しってるかい？\6\2
+\f48Bolto:Hey hey, did you\1
+### no newline
+ know that a rumor's been
+ going around?\6\2
+# \fFFしってる。\1
+# しらない。\7\2
+\fffI know.\1
+I didn't know.\7\2
+# \0
+\0
+
+
+@5 90E1/90E3 
+# \2
+\2
+# \f48ボルトー：そうか・・・・　じゃあ\1
+# 　　　　　うわさはほんとうなのかなあ。\6\2
+### no newline
+\f48Bolto:Hmm, OK... I wonder
+ if that rumor is\1
+ really true.\6\2
+# \0
+\0
+
+
+@5 90F2/90F4 
+# \2
+\2
+# \f48ボルトー：きのうまで　げんきだったやつが\1
+# 　　　　　とつぜん無気力になっちまう・・・\6\2
+\f48Bolto:Suddenly, people\1
+ who were OK yesterday\1
+ have lost their energy…\6\2
+# 　　　　　そんな病気がはやってるらしい。\1
+# 　　　　　ホントかねぇ・・・\6\2
+ Guess it's a disease\1
+### no newline
+ going around... I wonder
+ if it's true...\6\2
+# \0
+\0
+
+
+@5 9102/9104 
+# \2
+# \f48ボルトー：電器屋のよこにある　こわれたテレビ・・\1
+# 　　　　　ときどき、ひとりでにひかりだすそうだ。\6\2
+# 　　　　　コンセントもささってないのに・・・\1
+# 　　　　　おっかないねえ。\6\2
+\2\f48
+Bolto:About the TV next\1
+ to the electronics\1
+ store...\6\2
+ I heard that sometimes,\1
+ it'll flicker all\1
+ by itself.\6\2
+ Even though it's not\1
+ even plugged in...\1
+ How scary!\6\2
+# \0
+\0
+
+
+@5 9112/9114 
+# \f48\2
+\f48\2
+# ボルトー：ごうとうをつかまえる\1
+# 　　　　　てだすけをしたんだってね、\6\2
+# 　　　　　すごいねえ、モモちゃん。\6\2
+Bolto:I heard that you\1
+ helped to catch the\1
+ robber.\6\2
+ You're amazing, Momo.\6\2
+# \0
+\0
+
+
+@5 9122/9124 
+# \2
+# \f48ボルトー：さいきん、ブタみたいな、ゾウみたいな\1
+# 　　　　　へんなどうぶつが、うろついてるって・・\6\2
+# 　　　　　まさかねえ・・・・・\6\2
+\2\f48
+### "been wandering around"
+Bolto:Lately, I've heard\1
+ a pig or elephant-like\1
+ animal's on the prowl...\6\2
+ Pretty unbelievable,\1
+ huh...\6\2
+# \0
+\0
+
+
+@5 9132/9134 
+# \2
+# \f48ボルトー：あんたのもっとる、そのパールと\1
+# 　　　　　そっくりな物を、\6\2
+# 　　　　　工場長の『ファクト』ってやつが、\1
+# 　　　　　もっていたそうだ。\6\2
+\2\f48
+Bolto:I've heard that\1
+ the factory manager,\1
+ “Fact”,\6\2
+ has a pearl just like\1
+ the one you've got.\6\2
+# \f48ボルトー：アパートにすんでる『ケン』はな、\1
+# 　　　　　工場長の　こうはいなんだそうだ。\6\2
+### his "kouhai", but he doesn't work for/with him, he's just younger
+Bolto:Ken, who lives in\1
+ the apartments, is\1
+ younger than him.\6\2
+# \0
+\0
+
+
+@5 9147/9149 
+# \2
+# \f48ボルトー：アパートにすんでる『ケン』はな、\1
+# 　　　　　工場長の　こうはいなんだそうだ。\6\2
+\2\f48
+### similar to above
+Bolto:Ken, who lives in\1
+ the apartments, is\1
+ younger than Fact.\6\2
+# \0
+\0
+
+
+@5 915A/915C 
+# \2
+# \f48ボルトー：さっき、まちはずれの『リッチー』さんが　　　　　おまわりさんをさがしとったが、\6\2
+# 　　　　　どうやら、どろぼうに入られたらしいぞ。\6\2
+\2\f48
+### no newline
+Bolto:Ms. Richie was just
+ trying to find a\1
+ police officer.\6\2
+ Seems like a robber\1
+ came. She lives on the\1
+ outskirts of town.\6\2
+# \0
+\0
+
+
+@5 916A/916C 
+# \2
+# \f48ボルトー：洋館に入りたいなら、アパートに行って\1
+# 　　　　　『リュウ』ってやつにきくといいとさ。\6\2
+# 　　　　　やつはいちど、コンサートをひらくので\1
+# 　　　　　洋館をつかったことがあるからな。\6\2
+\2\f48
+### no newline
+Bolto:If you wanna get in
+ the mansion, you'd\1
+ better ask Ryuu.\6\2
+ He used it once to hold\1
+ a concert. He lives in\1
+ the apartments.\6\2
+# \0
+\0
+
+
+@5 917B/917D 
+# \1
+### original control code is almost certainly a typo
+\2\f48
+# \f48ボルトー：一人の　おんなのこが、\2
+# 　　　　　無気力になったやつらを　ゆうきづけて\6\2
+# 　　　　　どんどん　もとにもどしているって。\1
+# 　　　　　この　うわさはオレもしんじてるよ。\6\2
+### no newline
+Bolto:I heard that a girl
+ has been cheering on\1
+ people who've lost\6\2
+ their energy, and\1
+### no newline
+ gradually returning them
+ back to normal.\6\2
+ I certainly believe\1
+ that rumor.\6\2
+# \0
+\0
+
+
+@5 9512/9514 
+# \2
+# \f06バンズ：さいきん　アルバイトのやつが\1
+# 　　　　かってにやすみやがる。\6\2
+# 　　　　こまったもんだよ。\6\2
+\2\f06
+### no newline
+### they've been taking the day off presumably unexcused
+Buns:Lately, my part-time
+ workers've just been\1
+ taking the day off!\6\2
+ Man, I'm in a real\1
+ bind.\6\2
+# \0
+\0
+
+
+@5 953B/953D 
+# \2
+\2
+# \f06バンズ：まいったよ！！　見てくれよ\1
+# 　　　　この　おきゃくさんのれつを・・\6\2
+\f06Buns:I'm beat! Look at\1
+ this lineup of\1
+ customers!\6\2
+# 　　　　アルバイトが出てこないから、\1
+# 　　　　このいそがしさだよ。\6\2
+ None of my part-time\1
+ workers are coming, so\1
+ it's really hectic.\6\2
+# 　　　　まったく、ねこのてもかりたいよ。\6\2
+### this is an idiom. i think it's ok, even if we don't say it in english
+ Man, I'd even accept\1
+ a cat's help right\1
+ now.\6\2
+# \f02クックブック：たいへんそうじゃのう。\1
+# 　　　　　　　どうする？　モモ。\6\2
+\f02Cookbook:Looks like a\1
+ problem.\1
+ What'll you do, Momo?\6\2
+# \fFF何とかする。\1
+# ほうっておく。\7\2
+\fffDo something.\1
+Leave him alone.\7\2
+# \0
+\0
+
+
+@5 9551/9553 
+# \2
+# \f01モモ：いそがしそうだから\1
+# 　　　また、あとでこよう！\6\2
+\f01
+Momo:Seems busy, so I'll\1
+ come back later!\6\2
+# \0
+\0
+
+
+@5 955D/955F 
+# \2
+# \f00モモ：しょうがない、\1
+# 　　　いっちょやるダバか！\6\2
+\2\f00
+Momo:I have to do\1
+ something...\1
+ Right, let's do it!\6\2
+# \0
+\0
+
+
+@5 9580/9582 
+# \2
+# \f01モモ：だめだ、こりゃ。\1
+# 　　　ひとまずたいさんするダバよ。\6\2
+\2\f01
+Momo:That was no good.\1
+ For now, I guess I'll\1
+ get out of here.\6\2
+# \0
+\0
+
+
+@5 958C/958E 
+# \2
+\2
+# \f05バンズ：ありがとう、たすかったよ。\1
+# 　　　　いまの人は、きみのおねえさんかい？\6\2
+\f05
+Buns:Thanks, you really\1
+ saved me there.\6\2
+ Hey, that person just\1
+ now, was she your\1
+ sister or something?\6\2
+# \f00モモ：えっ？・・・　ええ、\1
+# 　　　まあ、そんなもんです。\6\2
+\f00
+Momo:Huh?....yeah,\1
+ well, I guess so.\6\2
+# \f05バンズ：おれいといっちゃなんだが、\1
+# 　　　　これをわたしといてくれないか？\6\2
+\f05
+Buns:Well, I gotta thank\1
+ you somehow, so how\1
+ about I give you this?\6\2
+# \0
+\0
+
+
+@5 959D/959F 
+# \fFFドリームパールを　てにいれた。\6\2
+\fffYou got a Dream Pearl.\6\2
+# \0
+\0
+
+
+@5 95BC/95BE 
+# \2
+# \f05バンズ：おねえさんに、\1
+# 　　　　『またうちではたらかないか』って\6\2
+# 　　　　いっておいてくれないか？\6\2
+\2\f05
+Buns:Hey, could you ask\1
+ your sister to come\1
+ work here again?\6\2
+# \0
+\0
+
+
+@5 95CC/95CE 
+# \2
+# \f05バンズ：うちではたらいてる『ケン』が、\1
+# 　　　　工場長としりあいだったはずだな。\6\2
+# 　　　　まったく、ケンのやつ・・・\1
+# 　　　　かってにやすみやがって・・クビだ！　クビ！\6\2
+\2\f05
+Buns:One of my workers,\1
+ Ken, knows the guy who\1
+ runs the factory.\6\2
+ Can't believe him...\1
+ skipping work...I'm\1
+ gonna fire him!\6\2
+# \0
+\0
+
+
+@5 95D8/95DA 
+# \2
+# \f05バンズ：さっき　ケンのやつから、でんわがあって\1
+# 　　　　かってにやすんだこと、あやまってたから\6\2
+# 　　　　とくべつにこんかいだけ、\1
+# 　　　　ゆるしてやることにしたよ。\6\2
+\2\f05
+Buns:Ken was just\1
+ apologizing over the\1
+ phone for not working.\6\2
+ I've decided to\1
+ forgive him just this\1
+ once.\6\2
+# \0
+\0
+
+
+@5 98E7/98E9 
+# \2
+\2
+# ケン：あーあ　めんどうくさいなあ。\1
+# 　　　なんにもやる気がおきないや。\6\2
+Ken:Aaagh, so annoying.\1
+ I can't muster up the\1
+ will to do anything.\6\2
+# \0
+\0
+
+
+@5 9920/9922 
+# \2
+# ケン：ほんとに、\1
+# 　　　何もかも　めんどうだなあ。\6\2
+\2
+Ken:Man, I can't be\1
+ bothered to do anything\1
+ at all.\6\2
+# \0
+\0
+
+
+@5 9933/9935 
+# \2
+\2
+# ケン：まじめにはたらいたって、どうせオレなんか\1
+# 　　　たいしてえらくなれないだろうし、\6\2
+# 　　　こうして　ぼーーーーっとしてるのが\1
+# 　　　一番しあわせだね。\6\2
+Ken:Even if I work hard,\1
+ I probably won't get\1
+ any better, so I'm\6\2
+ happiest just lazing\1
+ around like this.\6\2
+# \0
+\0
+
+
+@5 9946/9948 
+# \2
+\2
+# ケン：あーー・・・はら・・へったなあ・・・\1
+# 　　　どうしようかなあ・・・・\6\2
+Ken:Aaaaah...hungry...\1
+ What should I do...\1
+ At my job, there were\6\2
+# 　　　アルバイトさきには、うるほどハンバーガーが\1
+# 　　　あるんだけどなあ・・・もう、あきたし・・・\6\2
+ as many burgers as we\1
+ sold, but I've gotten\1
+ totally sick of them...\6\2
+# 　　　何かがたべたいんだけど。何がたべたいのか、\1
+# 　　　じぶんでもわからないや・・・。\6\2
+ I wanna eat something,\1
+ but even I don't know\1
+ what I want to eat...\6\2
+# \0
+\0
+
+
+@5 9959/995B 
+# \2
+\2
+# ケン：やあ、きみか・・・・\6\2
+Ken:Oh, it's you....\6\2
+# \f00モモ：あのう・・・・ケンさんが工場長さんのこと\1
+# 　　　くわしいって　きいたんですけど・・・。\6\2
+\f00
+Momo:Um....I heard you\1
+ knew a lot about the\1
+ factory manager...\6\2
+# \fFF　　　工場長さんの家をしってたら、\1
+# 　　　おしえてくれませんか？\6\2
+\fff
+ If you know where he\1
+ lives, could you please\1
+ tell me?\6\2
+# ケン：しってるよ・・・・。しってるけど・・・・、\1
+# 　　　おなかが・・へって・・・\6\2
+# 　　　とても・・・・おしえる気にならないよ。\1
+# 　　　何か・・・たべものを・・・・。\6\2
+Ken:I know....\1
+ I know, but...\1
+ I'm.....hungry.....\6\2
+### this sounds kind of too mean in english i guess
+ I....don't feel like\1
+ telling you. Give me\1
+ food.....\6\2
+# \0
+\0
+
+
+@5 9971/9973 
+# \2
+\2
+# ケン：はら・・・へった・・・\1
+# 　　　めがまわるー！\6\2
+Ken:So...hungry...\1
+ I feel faint!\6\2
+# \0
+\0
+
+
+@5 9984/9986 
+# \2
+\2
+# ケン：うーっ、た・たべもの・・・\6\2
+Ken:Uuugh, f-food.....\6\2
+# \f01モモ：バナナぐらいしかなかったんだけど・・・。\6\2
+\f01
+Momo:Well, all I have is\1
+ a banana...\6\2
+# \fFFケン：ば・なな・・・ばな・なな？\1
+# 　　　バナナっ！？\6\2
+# 　　　バナナだっ！　オレのもとめていたものはっ！\6\2
+# 　　　思い出したぞ！　オレは子供のころ、\1
+# 　　　バナナえんで　はたらくのが夢だったんだ。\6\2
+\fff
+Ken:Ba…nana…Bana…nana?\1
+ Banana!?\6\2
+ It's a banana! It's\1
+ just what I wanted!\1
+ I remembered!\6\2
+ When I was a child, my\1
+ dream was to work at\1
+### i was also considering "garden", but to me that more conjures images of flowers
+### a "field" is more like farming
+ a banana field.\6\2
+# \f00モモ：・・かわった・・夢をおもちで・・・・・・・\1
+# 　　　それで、工場長さんの家は？\6\2
+\f00
+### no newline
+Momo:..weird..dream......
+ Anyway, what about\1
+ the manager's house?\6\2
+# \fFFケン：ああ、そうだったね。じつは、このすぐ上の\1
+# 　　　２０１ごうしつなんだよね。\6\2
+\fff
+Ken:Ah, yes. The truth\1
+ is, he lives in room\1
+ 201 right up there.\6\2
+# \f02ルピピ：ええーっ！　それだけのために、\1
+# 　　　　こんなにくろうしたの？\6\2
+\f02
+Rupipi:Whaaat! We went\1
+### no newline
+ through all that trouble
+ just for that?\6\2
+# \fFFケン：いやあ、ごめん　ごめん。\6\2
+\fff
+Ken:Yeah, sorry about\1
+ that.\6\2
+# \0
+\0
+
+
+@5 999C/999E 
+# \2
+\2
+# ケン：すこしげんきもでたから、\1
+# 　　　あしたはアルバイトに行こうかな。\6\2
+Ken:I'm feeling a bit\1
+ better, so I think I'll\1
+ go to work tomorrow.\6\2
+# \0
+\0
+
+
+@5 99A8/99AA 
+# \2
+\2
+# ケン：そういやあ　となりのリュウが、れいの洋館で\1
+# 　　　コンサートをやったことがあったなあ。\6\2
+### no newline
+Ken:Hey, my neighbor Ryuu
+ has held concerts at\1
+ the mansion before.\6\2
+# \0
+\0
+
+
+@5 99CA/99CC 
+# \2
+\2
+# \f1Fモモ：こんにちわ。\6\2
+\f1f
+Momo:Hello there.\6\2
+# \fFFリュウ：・・・・・・・・・・・\6\2
+\fff
+Ryuu:...........\6\2
+# \f20モモ：あのーっ・・\6\2
+\f20Momo:Umm....\6\2
+# \fFFリュウ：・・・・・・・・・・・・・・・・・・・・\1
+# 　　　　・・・・・・・・・・・・・・・・・・・・\6\2
+\fff
+Ryuu:.................\1
+ ..................\6\2
+# \f20モモ：ねてるのかしら？・・・\1
+# 　　　めは　あいてるのに・・・・\6\2
+\f20
+Momo:Is he asleep?...\1
+ But his eyes are open...\6\2
+# \2
+# \0
+\2\0
+
+
+@5 99E9/99EB 
+# \2
+\2
+# \f1Fモモ：こんにちわ。\6\2
+\f1fMomo:Hello.\6\2
+# \fFFリュウ：ちょうどいい時にきた。きみはうんがいい。\1
+# 　　　　インスピレーションが　わいたんだ。\6\2
+\fffRyuu:You've come at just\1
+ the right time! You\1
+ have good luck.\6\2
+### no newline
+ I'm full of inspiration.
+# 　　　　ちょっと、オレのうたをきいていかないか？\6\2
+ Hey, wanna hear my song?\6\2
+# ぜひ、きいていく。\1
+# えんりょする。\7\2
+I'll definitely listen.\1
+Hold off.\7\2
+# \0
+\0
+
+
+@5 99FF/9A01 
+# \2
+# \fFFリュウ：そうか・・・ざんねんだなあ・・・\1
+# 　　　　きみはうんがわるい。\6\2
+\2\fff
+Ryuu:Hmmm...too bad.\1
+ Guess you're not so\1
+ lucky after all.\6\2
+# \0
+\0
+
+
+@5 9A12/9A14 
+# \2
+\2\fff
+# \fFFリュウ：そうかそうか、そこまでいうなら\1
+# 　　　　うたってあげようか。じゃあ、いくぜっ\6\2
+Ryuu:Yeah, yeah! Since\1
+ you so kindly asked,\1
+ I'll sing for you!\6\2
+# 『もーーえーる、もえーてるー、\1
+# 　おれのこころは　やまかじさぁ。』\6\2
+“Buuurning, buuurniiing,\1
+ My heart is a wildfire.”\6\2
+# 『しょうかきなんかじゃ、け・せ・なぁいぃぜぇー』\6\2
+“Even with a fire\1
+  extinguisher,\1
+ You caaan't put it oout”\6\2
+# \f21チャーモ：ううっ・・みみが　くされるぅ\6\2
+### in japanese this is a weirdly evocative image
+### it's more like they're rotting/corroding
+\f21Charmo:Uuuughh...\1
+ My ears are burning...\6\2
+# \0
+\0
+
+
+@5 9A25/9A27 
+# \2
+\2
+# リュウ：何てラッキーなんだ、きみは。\1
+# 　　　　しんきょくだぜ！\6\2
+Ryuu:Man, you are SO\1
+ lucky. It's my new song!\6\2
+# 『オレのハートのすきまにはぁー、\1
+# 　　ぜったいれいどの　かぜがふくぅー！』\6\2
+### no newline
+“In the gap in my heaart
+ An absolute zero wind\1
+  is hooowling”\6\2
+# 『つめたくこおった　そのこころぉ\1
+# 　　電子レンジじゃ、とけないぜぇー』\6\2
+“Heart's frozen so cold\1
+ Not even a microwave\1
+  could thaaaaw it”\6\2
+# \f21ルピピ：やーん、あたまが、あたまが　われるぅ！\6\2
+\f21
+Rupipi:Aaaa, my head,\1
+ my head is splitting!\6\2
+# クックブック：あつかったり、つめたかったり\1
+# 　　　　　　　いそがしいハートじゃのう。\6\2
+Cookbook:Your heart sure\1
+ is busy...having to be\1
+ hot and cold and all.\6\2
+# \0
+\0
+
+
+@5 9A31/9A33 
+# \2
+\2
+# \fFFリュウ：洋館でコンサート？\1
+# 　　　　ああ、たしかにやったことがあるよ。\6\2
+\fff
+Ryuu:A concert at the\1
+ mansion? Yeah, I've\1
+ had one of those.\6\2
+# 　　　　あの洋館は、まちはずれの\1
+# 　　　　リッチーさんの物だから、\6\2
+# 　　　　たのんで　つかわせてもらったんだ。\6\2
+### no newline
+ It belongs to Ms.Richie,
+ so I asked her and she\1
+ let me use it.\6\2
+# 　　　　またそのうちに　コンサートひらくから、\1
+# 　　　　その時は　きてくれよな。\6\2
+ I'll hold another one\1
+ someday, so when I do,\1
+ please come!\6\2
+# \0
+\0
+
+
+@5 9A54/9A56 
+# \2
+\2
+# \f46あーかったるい。\1
+# しごとなんか、やってらんねえよ。\6\2
+\f46
+Aaaah, I'm so tired.\1
+ I can't work.\6\2
+# \0
+\0
+
+
+@5 9A8F/9A91 
+# \2
+\2\f46
+# \f46ねむい、ねむい・・・・・\1
+# 　おれはねるぞーっ！\6\2
+### should sound rather overconfident for trying to sleep
+Sleepy, sleepy.....\1
+ Yeah! Time to sleep!\6\2
+# \0
+\0
+
+
+@5 9AA2/9AA4 
+# \2
+# \f46ががーーーっ！！！\1
+# ごごーーーーーつ！！！\6\2
+\2\f46
+zzzzzzzz!!!\1
+ZZZZZZZZZZ!!!\6\2
+# \f44ルピピ：ひえーっ・・。すごい、いびき。\6\2
+\f44
+Rupipi:Waaaa...\1
+ That was quite a snore.\6\2
+# \0
+\0
+
+
+@5 9AB5/9AB7 
+# \2
+\2
+# \f46ファクト：ふぁあーーーっ・・・よくねた・・\1
+# 　　　　　ん？　何かようかい？\6\2
+\f46
+Fact:Yaaaawn...I\1
+ slept a lot...\1
+ Hm? What do you want?\6\2
+# \f42モモ：あのう、これとおんなじパールを\1
+# 　　　もってるって、きいたんですけど・・・。\6\2
+\f42
+Momo:Um...I heard you\1
+ had a pearl just\1
+ like this one, and...\6\2
+# \f46ファクト：ああ、そんなもんもあったなぁ・・・\1
+# 　　　　　工員のだれかのわすれ物かと思って、\6\2
+# 　　　　　工場の一番おくに、おいてきちまったよ。\6\2
+# 　　　　　これ、かしてやるから、\1
+# 　　　　　かってにさがして、もっていきな。\6\0
+\f46
+Fact:Oh, yeah, I did...\1
+ I thought one of my\1
+ workers forgot it,\6\2
+ so I left it at the\1
+ innermost part of\1
+ the factory.\6\2
+ I'll give you this,\1
+ so go ahead and use\1
+ it to find the pearl.\6\2
+\0
+
+
+@5 9AD0/9AD2 
+# \2
+\2
+# 『工場のカギ』を　てにいれた。\6\2
+You got the factory key.\6\2
+# \f46ファクト：工場の中、キカイつけっぱなしだから\1
+# 　　　　　気をつけろよ！\6\2
+\f46
+Fact:I left the machines\1
+ in the factory on, so\1
+ be careful in there!\6\2
+# \0
+\0
+
+
+@5 9ADC/9ADE 
+# \2
+\2
+# \f46ファクト：がががーーーっ！！\6\2
+\f46
+Fact:ZZZZZZZ!!\6\2
+# \f44ルピピ：あら？またねちゃってる・・・。\6\2
+\f44
+Rupipi:Huh? He's\1
+ asleep again...\6\2
+# \f43モモ：こりゃまた、よくねるおじさんだこと。\6\2
+\f43
+Momo:Wow, this guy sure\1
+ does sleep a lot!\6\2
+# \0
+\0
+
+
+@5 9AED/9AEF 
+# \2
+\2
+# ジュン：わたし、さいきんここに\1
+# 　　　　ひっこしてきたんだけど・・・・\6\2
+# 　　　　思ってたより、げんきのないまちね。\1
+Jun:I just moved here,\1
+ but this town seems\1
+ rather gloomy...\6\2
+# 　　　　まえにきたときは、もっと\6\2
+# 　　　　にぎやかだったと思ったんだけど・・・・\6\2
+### no newline
+ Before I came, I thought
+ it was more lively than\1
+ this...\6\2
+# \0
+\0
+
+
+@5 9B16/9B18 
+# \2
+\2
+# ジュン：さいきんひっこしてきたばかりだから、\1
+# 　　　　このへんのこと、あまりしらないの。\6\2
+Jun:I just moved here,\1
+ so I don't really know\1
+ my way around here.\6\2
+# \0
+\0
+
+
+@5 9B29/9B2B 
+# \2
+\2
+# ジュン：じんぺいったら、どこにいったのかしら・・\1
+# 　　　　わたしの　おとうとなんだけど、\6\2
+Jun:I wonder where my\1
+ little brother Jinpei\1
+ went...\6\2
+# 　　　　あそびに出たっきり\1
+# 　　　　かえってこないのよ・・・・・。\6\2
+ Ever since he left\1
+ to go play, he hasn't\1
+ come back......\6\2
+# \0
+\0
+
+
+@5 9B3C/9B3E 
+# \2
+\2
+# ジュン：となりのひと、すごいイビキねえ。\1
+# 　　　　ここまできこえてくるわ。\6\2
+Jun:My neighbor snores\1
+ really loudly...I can\1
+ even hear it from here!\6\2
+# \0
+\0
+
+
+@5 9B48/9B4A 
+# \2
+\2
+# ジュン：おとうとのラジコンひこうき\1
+# 　　　　見つけてくださったんですってね、\6\2
+# 　　　　どうもありがとう。\6\2
+Jun:I heard you found my\1
+ little brother's plane.\1
+ Thank you very much.\6\2
+# \0
+\0
+
+
+@5 9B5B/9B5D 
+# \2
+\2
+# ジョー：このまえ、ふしぎなことがあったんだ。\1
+# 　　　　電器屋のよこにすててあるテレビが、\6\2
+# 　　　　ひとりでに　ひかりだしたんだ。しかも、\1
+# 　　　　コンセントもつながってないのに・・・。\6\2
+Joe:Something strange\1
+ happened recently.\1
+ The TV in front of the\6\2
+### no newline
+ electronics store turned
+ on by itself...Also, it\1
+ wasn't even plugged in.\6\2
+# \0
+\0
+
+
+@5 9B6E/9B70 
+# \2
+\2
+# ジョー：下のへやのケンってやつ、さいきん\1
+# 　　　　バーガーショップのアルバイト\6\2
+# 　　　　かってにやすんでるらしいんだ。\1
+# 　　　　クビにならなきゃいいけど・・・。\6\2
+Joe:Recently, I've\1
+ heard that Ken, who\1
+ lives below me,\6\2
+ has been just taking\1
+ breaks from his job\1
+ at the burger shop.\6\2
+ Hopefully he doesn't\1
+ get fired...\6\2
+# \0
+\0
+
+
+@5 9B81/9B83 
+# \2
+\2
+# ジョー：すっごい　かわいい子を見つけたんだ。\1
+# 　　　　あんな子が、このまちにいたなんて・・・。\6\2
+Joe:I've found a super\1
+ cute girl...To think a\1
+ girl like that was here…\6\2
+# 　　　　アイス屋のミントさん♡・・・・・\1
+ Mint at the ice cream\1
+ shop♡...\6\2
+# 　　　　ミントさんにあうために、ここんとこ\6\2
+# 　　　　あさ、ひる、ばんと　ごはんがわりに\1
+# 　　　　アイスをたべてるんだ♡\6\2
+ Recently, I've been\1
+ eating ice cream for\1
+ breakfast, lunch,\6\2
+ and dinner, all so\1
+ I can meet her♡\6\2
+# \0
+\0
+
+
+@5 9B8D/9B8F 
+# \2
+\2
+# ジョー：うーん・・・\1
+# 　　　　おなかが　いたい。\6\2
+# 　　　　さすがに、アイスをたべすぎたみたいだ。\6\2
+Joe:Uuuugh...\1
+ My stomach hurts.\6\2
+ I guess I ate too\1
+ much ice cream...\6\2
+# \0
+\0
+
+
+@5 A79B/A79D 
+# \2
+\2
+# \f01モモ：おとこのこがねてる・・・\6\2
+\f01Momo:He's sleeping...\6\2
+# \f02クックブック：かなり、ぐあいがわるそうじゃのう。\1
+# 　　　　　　　どうする？　モモ。\6\2
+\f02Cookbook:He looks\1
+ pretty sick.\1
+ What'll you do, Momo?\6\2
+# \fFF何とかする。\1
+# ほうっておく。\7\2
+\fffDo something.\1
+Leave him alone.\7\2
+# \0
+\0
+
+
+@5 A7B4/A7B6 
+# \2
+\2
+# \f01モモ：家の人がいないときに、だまって\1
+# 　　　中に入るのはマズイんじゃない？\6\2
+\f01
+Momo:Isn't it bad to\1
+ silently enter people's\1
+ empty houses?\6\2
+# \f02クックブック：そうじゃのう・・・。\0
+\f02
+### original control code causes graphic glitches in text area
+Cookbook:I guess so...\6\2
+\0
+
+
+@5 A7C0/A7C2 
+# \2
+\2
+# \f01モモ：ほっとくわけには\1
+# 　　　　いかないダバさっ！\6\2
+\f01
+Momo:There's no way I\1
+ can just ignore this!\6\2
+# \0
+\0
+
+
+@5 A7E3/A7E5 
+# \2
+\2
+# \f01モモ：たまにはこんなこともあるダバさ・・。\0
+\f01
+### no newline
+Momo:Well, I guess things
+ like this happen every\1
+ so often...\6\2
+\0
+
+
+@5 A7EF/A7F1 
+# \2
+# \f03シック：ありがとう！\1
+# 　　　　かんびょうしてくれて・・・\6\2
+# 　　　　パパもママもいなくて\1
+# 　　　　一時は　もうしんじゃうかと思った。\6\2
+# 　　　　おれいに、これあげるよ。\1
+# 　　　　このまえひろった、ぼくの宝物なんだ。\6\2
+\2\f03
+### "nursing" is bad translation-ese but it works i guess
+Sick:Thanks for nursing\1
+ me...\6\2
+### no newline
+ Papa and Mama were gone,
+ so for a bit, I was\1
+### disturbing? this is in the original too
+ wondering if I'd die…\6\2
+ As thanks, I'll give you
+### it's more like "treasured object/prized possession" but no space
+### no newline
+ this. It's my treasure I
+ happened to find.\6\2
+# \0
+\0
+
+
+@5 A800/A802 
+# \fFFドリームパールを　てにいれた。\6\2
+\fffYou got a Dream Pearl.\6\2
+# \0
+\0
+
+
+@5 A816/A818 
+# \2
+# \f03シック：このまえは、ありがとう。\6\2
+# 　　　　ちゃんと病気なおったら、\1
+# 　　　　いっしょにあそぼう！\6\2
+\2\f03
+Sick:Thanks for before.\1
+ Now that I'm ok, let's\1
+ play together!\6\2
+# \0
+\0
+
+
+@5 A9DB/A9DD 
+# \2
+\2
+# \f69ママ：おはようモモ。\1
+# 　　　いそがないとがっこうにおくれますよ。\6\2
+\f69
+Mama:Good morning, Momo.\6\2
+ If you don't hurry,\1
+ you'll be late for\1
+ school!\6\2
+# \f60モモ：あ・・・ママ・・・・おはよう。\1
+# 　　　あのねママ、ゆうべ　へんな夢見たんだ。\6\2
+# 　　　ゾウみたいな　かいじゅうがね、\1
+# 　　　パパや、ママや、みんなの夢をたべちゃうの。\6\2
+\f60
+### no newline
+Momo:Ah...Mama...morning.
+ Hey, Mama, last night I\1
+ had a strange dream.\6\2
+ An elephant monster ate\1
+ Papa's, yours, and\1
+ everyone's dreams.\6\2
+# \f68パパ：ほう、それはたいへんだねえ。\1
+# 　　　で、モモの夢は？\6\2
+\f68
+Papa:Hmm, that sounds\1
+ rough. What happened to\1
+ your dreams, Momo?\6\2
+# \f62モモ：わたしのは、だいじょうぶだったけど・・・\6\2
+\f62
+Momo:Well, mine were\1
+ fine, I guess...\6\2
+# \f68パパ：なんだ、夢なんか　そのかいじゅうに\1
+# 　　　たべさせてあげれば　よかったのに・・・。\6\2
+\f68
+Papa:What? I think you\1
+ should've let that\1
+ monster eat them...\6\2
+# \f6Bモモ：パ・・・パパ？・・・\6\2
+\f6b
+Momo:Pa...Papa?...\6\2
+# \0
+\0
+
+
+@5 A9F1/A9F3 
+# \2
+\2
+# \f68パパ：だってそうだろう？　人が、いきていくのに\1
+# 　　　夢なんかひつようないんだから。\6\2
+# 　　　かんがえてごらん。大きすぎる夢をもって、\1
+# 　　　それが　かなわなかった時のかなしみを・・・\6\2
+\f68
+Papa:Why not? People can\1
+ live without dreams.\1
+ Think about it. If you\6\2
+ dream too big, you'll\1
+ be sad when they\1
+ don't come true.\6\2
+# \f69ママ：そうよ。　夢なんか無くったって、\1
+# 　　　現実がたのしければ、いいじゃないの？\6\2
+# 　　　夢は夢・・・。\1
+# 　　　どうしたって現実にはかなわないわ。\6\2
+\f69
+Mama:Exactly. Even if\1
+ dreams didn't exist,\6\2
+ isn't it ok if your\1
+ real life is fun?\6\2
+ Dreams are dreams...\1
+ No matter what, they're\1
+ no match for reality.\6\2
+# \f6Cモモ：ちがう、ちがうわ！\1
+# 　　　ふたりとも　ほんとうのパパとママじゃない！\6\2
+\f6c
+Momo:You, you're wrong!\1
+ You two aren't really\1
+ Mama and Papa!\6\2
+# \f68パパ：夢なんか、すててしまいなさい。\6\2
+\f68
+### sounds too commanding? not very parentlike but i guess it's an illusion
+Papa:Give up your\1
+ stupid dreams.\6\2
+# \f69ママ：現実だけ見ていればいいのよ。\6\2
+\f69
+Mama:You should look\1
+ at only reality.\6\2
+# \f6Cモモ：ちがうわっ！\1
+# 　　　夢をわすれちゃ　いけないのよ！\6\2
+# 　　　たとえそれが　かなわなくっても・・・\1
+# 　　　夢にむかって努力することがだいじなのよ！\6\2
+# 　　　夢をわすれちゃ　いけないのよ！\6\2
+\f6c
+Momo:You're wrong!\1
+ You mustn't forget\1
+ your dreams!\6\2
+ Even if they don't come\1
+### no newline
+ true...it's important to
+ put effort into them!\6\2
+ You mustn't forget\1
+ your dreams!\6\2
+# \0
+\0
+
+
+@5 ACB3/ACB5 AD86/AD88 
+# \2
+# \0
+\2\0
+
+
+@5 ACBF/ACC1 
+# \2
+\2
+# \f02チャーモ：ここはゲームセンターだね。\1
+# 　　　　　何かやっていく？\6\2
+\f02Charmo:This is the\1
+ arcade. Wanna play?\6\2
+# \fFFあそんでいこう。\1
+# そんなばあいじゃないよ。\7\2
+\fffLet's play!\1
+Now's not the time.\7\2
+# \0
+\0
+
+
+@5 ACD8/ACDA 
+# \2
+# \f02チャーモ：あいてるゲームはこれだけだよ。\6\2
+# 十字ボタンでえらんで、Ａボタンでスタート。\1
+# 外に出たかったらＢボタンをおしてね。\6\2
+\2\f02
+### in the image, as games are unlocked, the people playing them disappear
+### no newline
+Charmo:Here are the games
+ you can play.\6\2
+ Select with the D-Pad,\1
+### no newline
+ start with the A Button,\6\2
+ and when you want to\1
+ leave, press B.\6\2
+# \0
+\0
+
+
+@5 AF7E/AF80 
+# \2
+\2
+# \f72モモ：ただいまぁ！\6\2
+\f72
+Momo:I'm back!\6\2
+# \f79パパ：おかえり・・・・モモ・・・・\6\2
+\f79
+Papa:Welcome home.....\1
+ Momo.....\6\2
+# \f78ママ：おかえりなさい・・・。\6\2
+\f78
+Mama:Welcome.......\6\2
+# \0
+\0
+
+
+@5 AFCE/AFD0 
+# \2
+\2
+# \f72モモ：ただいまーっ。\4\4\2
+\f72
+Momo:I'm baaack!\4\4\2
+# \f7Aママ：おかえりなさい。\4\4\2
+\f7a
+Mama:Welcome back.\4\4\2
+# \f7Bパパ：おかえり、モモ。\4\4\2
+\f7b
+Papa:Welcome, Momo.\4\4\2
+# \f72モモ：よかった♡　いつものパパとママだ。\4\4\2
+\f72
+Momo:What a relief♡\1
+ Papa and Mama are\1
+ back to normal.\4\4\2
+# \f7Aママ：うん？　なあに　モモ？\4\4\2
+\f7a
+Mama:Hm? What is it,\1
+ Momo?\4\4\2
+# \f72モモ：ううん、何でもない。\4\4\2
+\f72
+Momo:Oh, it's nothing.\4\4\2
+# \f72モモ：あ、そうだっ。ねえパパ、\1
+# 　　　どっかあそびに行こうよ。\4\4\2
+\f72
+### no newline
+Momo:Ah, right. Hey Papa,
+ let's go on a trip\1
+ somewhere!\4\4\2
+# \f74クックブック：そうダバ。\1
+# 　　　　　　　せっかくの　なつやすみダバ。\4\4\2
+\f74
+Cookbook:Yes. After all,\1
+ it's the long-awaited\1
+ summer vacation!\4\4\2
+# \f79パパ：うーーん、今　いそがしいからなあ・・・・\4\4\2
+\f79
+Papa:Hmmm, well, I'm\1
+ busy right now, so...\4\4\2
+# \f74おとも：えーーーっ！\4\4\2
+\f74All:Whaaaaat!\4\4\2
+# \f7Bパパ：なぁんてね、じつは　さっきもう\1
+# 　　　かってきたんだ。\4\4\2
+\f7b
+Papa:Just kidding!\1
+ The truth is, I just\1
+ bought something...\4\4\2
+# \f7Aママ：そう！\1
+# 　　　みなみのしま行きの　キップをね♡\4\4\2
+\f7a
+Mama:Yes!\1
+ Tickets to the south\1
+ island♡\4\4\2
+# \f72モモ：やったーーーっ♡\4\4\2
+\f72
+Momo:Yaaaaaay♡\4\4\2
+# \0
+\0
+
+
+@5 B141/B143 
+# \2
+\2
+# \f72モモ：おはよう、パパ！\4\4\2
+\f72Momo:Good morning, Papa!\4\4\2
+# \f79パパ：ああ・・・・おはよう・・・・\4\4\2
+\f79Papa:Ah......\1
+ good morning......\4\4\2
+# \f73モモ：？・・・どうしたのパパ？\1
+# 　　　どっか　いたいの？・・・・・\4\4\2
+\f73Momo:?....what's wrong,\1
+ Papa?\1
+ Does anything hurt?\4\4\2
+# \f79パパ：いや、からだは何ともないんだけどね・・・\1
+# 　　　なんにもやる気が　おきないんだよ。\4\4\2
+\f79Papa:No, nothing's wrong\1
+ with my body...\4\2
+ I just can't muster up\1
+ any energy.\4\4\2
+# \f74チャーモ：パパさん、きっと　つかれてるんだよ。\4\4\2
+\f74Charmo:Papa's definitely\1
+ tired.\4\4\2
+# \f73モモ：うん・・・・しょうがないかぁ・・・\4\4\2
+\f73Momo:Yeah... I guess\1
+ there's nothing I can\1
+ do...\4\4\2
+# \f72モモ：それじゃあ、ママ\4\4\2
+\f72Momo:Well then, Mama?\4\4\2
+# \f78ママ：・・・・・・・・・・・\4\4\2
+\f78Mama:............\4\4\2
+# \f73モモ：ママ？・・・\4\4\2
+\f73Momo:Mama?...\4\4\2
+# \f78ママ：えっ？　ああ何？　モモ。\4\4\2
+\f78Mama:Huh? Ah, what, Momo?\4\4\2
+# \f74クックブック：ありゃー、ママさんも・・・\4\4\2
+\f74Cookbook:Wow, Mama too...\4\4\2
+# クックブック：こりゃあ、どこかつれてってもらう\1
+# 　　　　　　　どころじゃないのう・・・・。\4\4\2
+Cookbook:I guess they're\1
+ not going to take us\1
+ anywhere...\4\4\2
+# \f73モモ：つまんないの・・・・。　しょうがない、\1
+# 　　　近くに　おさんぽでも行こう！\4\4\2
+\f73Momo:Boring... Whatever,\1
+ let's take a walk\1
+ around the neighborhood!\4\4\2
+# \0
+\0
+
+
+@5 B693/B695 
+# \2
+\2
+# \f4Aバグー：おいっ、おまえ！\1
+# 　　　　おまえ、『モモ』だな？\6\2
+\f4a
+Bagu:Hey, you there!\1
+ You're “Momo”, right?\6\2
+# \f44チャーモ：うひゃーっ、へんなやつだなぁ・・・・\1
+# 　　　　　ブタみたいな、ゾウみたいな・・・・？\6\2
+\f44
+Charmo:Waah, he's weird…\1
+ He looks like a pig,\1
+ and also an elephant…?\6\2
+# \f43モモ：あっ！　あなた、『バグー』ね？！\6\2
+\f43
+Momo:Aha! So you're\1
+ “Bagu”, huh?!\6\2
+# \f4Aバグー：そうとも、おれさまがバグーさまだ。\6\2
+# 　　　　おい！　おまえ、ドリームパールを\1
+# 　　　　あつめてるだろう。\6\2
+# 　　　　あれはこのバグーさまのものだ。かえせっ！\6\2
+\f4a
+### -sama is actually said twice in a row here. what a jerk!
+Bagu:Exactly! It's me,\1
+ the great Bagu!\6\2
+ Hey! It seems like\1
+ you're collecting the\1
+ Dream Pearls.\6\2
+### "those are mine" would make him just seem like a spoiled child
+ Those rightfully\1
+ belong to me.\1
+ Give them back!\6\2
+# \f4Bモモ：何いってんのよ！　もともとあれは\1
+# 　　　『マリンナーサ』の物でしょう！\6\2
+\f4b
+Momo:What're you saying!\1
+ Those have always\1
+ belonged to Marinnarsa!\6\2
+# \f4Aバグー：ケッ！　そういうと思ったぜ。\1
+# 　　　　だったら力づくでも、いただくまでよ。\6\2
+# 　　　　いくぜっ！\6\2
+\f4aBagu:Hmpf! That's\1
+ what you think.\6\2
+ Well then, I'll just\1
+ have to take them,\1
+ even by force!\6\2
+### more like "i'm going!" but that's lame
+ See you later!\6\2
+# \0
+\0
+
+
+@5 B6B1/B6B3 
+# \fFF\2
+\fff\2\f4a
+# \f4Aバグー：ちぇっ、だめか。\1
+# 　　　　もうすこしだと思ったのに・・・\6\2
+Bagu:Hmpf, no good.\1
+ And I thought I was\1
+ almost there...\6\2
+# 　　　　おい、おまえ！　のこりのドリームパールは\1
+# 　　　　おれさまがもっている！\6\2
+ Hey, you! I've got the\1
+ rest of the Dream\1
+ Pearls!\6\2
+# 　　　　おたがいのパールをかけて、しょうぶだ！\6\2
+ Let's both bet our\1
+ pearls in a showdown!\6\2
+# 　　　　かわのむこうの洋館でまってるから、\1
+# 　　　　ドリームパールをもってこい！\6\2
+ I'll be waiting at the\1
+ mansion by the river,\1
+ so bring the pearls!\6\2
+# \0
+\0
+
+
+@5 B6C2/B6C4 
+# \2
+\2
+# \f4Bモモ：バグーーっ！　　まちなさいっ！\6\2
+\f4b
+Momo:Baguuuuu!\1
+ Stop right there!\6\2
+# \f44チャーモ：ずるいなあ、あいつ・・・・\1
+# 　　　　　『のこりのパール』って、\6\2
+# 　　　　　あいつ、２こしか　もってないんじゃん。\6\2
+\f44
+Charmo:How unfair...\1
+ He's only got 2\1
+ Dream Pearls.\6\2
+# \f4Bモモ：よーしっ、洋館にのりこむわよ！\6\2
+\f4b
+Momo:Alright, let's\1
+ enter the mansion!\6\2
+# \0
+\0
+
+
+@5 B961/B963 
+# \2
+\2
+# \f23けいかん：むにゃむにゃ・・・・・\6\2
+\f23
+Cop:zzzzzz....\6\2
+# \f21チャーモ：あらま、\1
+# 　　　　　ねてるよ？この人・・・・\6\2
+\f21
+Charmo:My, is he asleep?\1
+ This guy....\6\2
+# \0
+\0
+
+
+@5 B99C/B99E 
+# \2
+\2
+# \f23けいかん：うん？　何だい？\1
+# 　　　　　ひるねのじゃまをしないでくれよ。\6\2
+\f23
+Cop:Hm? What?\1
+ Don't bother me\1
+ during my nap.\6\2
+# \f20モモ：おまわりさんがこれで、\1
+# 　　　だいじょーぶなんだろか？うーむ。\6\2
+\f20
+Momo:Is it really ok\1
+ for a policeman to be\1
+ like this? Hmmm.\6\2
+# \0
+\0
+
+
+@5 B9AF/B9B1 
+# \2
+\2
+# \f2Cモモ：おまわりさん、おまわりさん！\1
+# 　　　おきてっ！\6\2
+\f2cMomo:Police, police!\1
+ Wake up!\6\2
+# \f23けいかん：んーー・・・？\1
+# 　　　　　何だい？\6\2
+\f23Cop:mmmmm...?\1
+ What?\6\2
+# \f2Cモモ：ごうとうよ！\1
+# 　　　ご・う・と・う！\6\2
+\f2cMomo:It's a robbery!\1
+ R-o-b-b-e-r-y!\6\2
+# \f23けいかん：あー？・・・ああ、あれか・・・\1
+# 　　　　　んー、もうまにあわないんじゃない？\6\2
+# 　　　　　あきらめたほうがいいよ。\6\2
+\f23Cop:Huh?...Ah, that...\1
+ Hmm, isn't it already\1
+ too late?\6\2
+ I think we should just\1
+ give up.\6\2
+# \f21クックブック：だめダバこの人・・・\1
+# 　　　　　　　モモ、どうする？\6\2
+\f21Cookbook:This guy's\1
+ hopeless...\1
+ What'll you do, Momo?\6\2
+# \fFFいっちょ、がんばる。\1
+# ひとまず、みおくる。\7\0
+\fffI'll do my best!\1
+### more specifically watch until he goes out of sight
+Just watch for now.\7\0
+
+
+@5 B9C5/B9C7 
+# \2
+\2
+# \f20モモ：ほんと、だめダバこりゃ・・・\1
+# 　　　行きましょ！\6\2
+\f20
+Momo:This guy's truly\1
+ hopeless...\1
+ Let's go!\6\2
+# \f23けいかん：むにゃむにゃ・・・・\6\2
+\f23
+Cop:zzzzzzzzz...\6\2
+# \0
+\0
+
+
+@5 B9D1/B9D3 
+# \2
+\2
+# \f20モモ：こうなりゃ、ヤルしか\1
+# 　　　ないダバさっ！\6\2
+\f20
+Momo:Well, I have\1
+ to try!\6\2
+# \0
+\0
+
+
+@5 B9F4/B9F6 
+# \2
+\2
+# \f20モモ：ありゃりゃ・・・・\1
+# 　　　にげられちっち・・・\6\2
+\f20
+Momo:Oh my.....\1
+ He ran away...\6\2
+# \f21チャーモ：しかたないよ。\1
+# 　　　　　行こう。　モモ。\6\2
+\f21
+Charmo:Well, that's it.\1
+ Let's go, Momo.\6\2
+# \0
+\0
+
+
+@5 BA00/BA02 
+# \2
+\2
+# \f22けいかん：きみのおかげで、\1
+# 　　　　　すっかりめがさめたよ。\6\2
+# 　　　　　はずかしいな、今までぼくは\1
+# 　　　　　何をしてたんだろう？\6\2
+# 　　　　　さあ、これからは\1
+# 　　　　　バリバリがんばるぞ！\6\2
+\f22
+Cop:Thanks to you, I've\1
+ completely woken up.\6\2
+### no newline
+ That was embarrassing...
+ What in the world was I\1
+ doing up until now...?\6\2
+ Anyway, I'm going to\1
+ do my absolute best!\6\2
+# \f1Fモモ：きゅうにヤル気でたね、\1
+# 　　　この人・・・・・\6\2
+\f1f
+Momo:This guy sure did\1
+ suddenly get his\1
+ energy back.....\6\2
+# \f21クックブック：モモのパワーの\1
+# 　　　　　　　えいきょうじゃろうが、\6\2
+# 　　　　　　　あまり長くはもたんぞ。\1
+# 　　　　　　　やはり、いっこくもはやく\6\2
+# 　　　　　　　ドリームパールを\1
+# 　　　　　　　あつめなければのう。\6\2
+\f21
+Cookbook:It was because\1
+ of your power, but it\1
+ won't last long.\6\2
+ We still need to get\1
+ the Dream Pearls as\1
+ fast as possible.\6\2
+# \0
+\0
+
+
+@5 BA1D/BA1F 
+# \2
+\2
+# \f22けいかん：そうそう、宝石店の店長が\1
+# 　　　　　おれいをしたいからって、\6\2
+# 　　　　　きみをさがしてたから、\1
+# 　　　　　行ってみるといいよ。\6\2
+\f22
+Cop:Oh yeah, the manager\1
+ of the jewel store said\1
+ he wanted to thank you,\6\2
+ and he was looking for\1
+ you, so you'd better\1
+ go and visit him.\6\2
+# \0
+\0
+
+
+@5 BA30/BA32 
+# \2
+\2
+# \f22けいかん：やあやあ、きみか。\1
+# 　　　　　げんきでパトロールしてるぞ！\6\2
+\f22
+Cop:Oh hey, it's you.\1
+ I'm patrolling with\1
+ all my energy!\6\2
+# \0
+\0
+
+
+@5 BA48/BA4A 
+# \2
+\2
+# \f22けいかん：えっ？かわむこうの洋館？\1
+# 　　　　　それならば、まちはずれの\6\2
+# 　　　　　リッチーさんのもちものだよ。\6\2
+\f22
+Cop:Hm? The mansion by\1
+ the river? That belongs\1
+ to Ms. Richie.\6\2
+# \0
+\0
+
+
+@5 BE52/BE54 
+# \2
+\2
+# \f74クックブック：どうするんじゃ？　モモ。\6\2
+\f74Cookbook:What'll you\1
+ do, Momo?\6\2
+# \fFFこのまま、つづける。\1
+# もう、やすむ。\7\2
+\fffKeep on going.\1
+Take a break.\7\2
+# \0
+\0
+
+
+@5 BE68/BE6A 
+# \2
+\2
+# \f72モモ：うーん・・・\1
+# 　　　もうすこし、がんばろっか！\6\2
+\f72
+Momo:Hmmm.....\1
+ Let's keep at it\1
+ for a little more!\6\2
+# \0
+\0
+
+
+@7 EA41/EA43 
+# \2
+# \fFFモモ・・・・・・モモ！・・・・おきなさい。\6\2
+\2
+\fff
+Momo.....Momo!....\1
+Please wake up.\6\2
+# \0
+\0
+
+
+@7 EB2A/EB2C 
+# \2
+\2
+# \f76パパ：たはーーーーっ！\1
+# 　　　きょうのところは、これまでダバ！\6\2
+# 　　　このあとをつづけるには、つぎのパスワードを\1
+# 　　　しっかりと　おぼえておくダバ。\6\fFF\2
+\f76
+Papa:Tahaaaaaaaa!\1
+ That's it for today!\6\2
+ To continue from here,\1
+ remember the following\1
+ password carefully.\6\fff\2
+# パスワード　\3\6\2
+Password  \3\6\2
+# \0
+\0
+
+
+@7 F3A2/F3A4 
+# \2
+\2
+# \f77バグー：ちくしょーっ\1
+# 　　　　このオレさまが、まけるなんて・・・・\4\4\2
+\f77
+Bagu:Curse you!\1
+ To think someone as\1
+ great as me could lose…\4\4\2
+# \f74クックブック：やれやれ・・・\4\4\2
+# 　　　　　　　ようやくドリームパールが\1
+# 　　　　　　　１０こ　そろったのう。\4\4\2
+# 　　　　　　　これで、ねがいごとを\1
+# 　　　　　　　かなえられるぞい。\4\4\2
+\f74
+Cookbook:Good grief...\4\4\2
+ Well, we've finally\1
+ collected all 10\1
+ Dream Pearls.\4\4\2
+ With these, we can now\1
+ make one wish\1
+ come true.\4\4\2
+# \f72モモ：ねえ　ねえ、これってどんなねがいでも\1
+# 　　　かなうのかなあ・・・・。\4\4\2
+# 　　　せかいりょこうとか、\1
+# 　　　おかしの家とか・・・・・・\4\4\2
+\f72
+Momo:Hey hey, I wonder\1
+ what kind of wishes\1
+ these can grant...\4\4\2
+### no newline
+ A round-the-world trip…
+ Or a house of candies…\4\4\2
+# \f74ルピピ：すてきな　ボーイフレンド♡とか？\4\4\2
+\f74
+Rupipi:Or a lovely\1
+ boyfriend? ♡\4\4\2
+# \f72モモ：そう　そうっ♡\4\4\2
+\f72
+Momo:Yeah, exactly♡\4\4\2
+# \f74チャーモ：あのねぇ・・・モモっ！\4\4\2
+\f74
+Charmo:Um, hey....\1
+ Momo!\4\4\2
+# \f7Cモモ：わかってるダバさ\1
+# 　　　ちょっといってみただけダバさぁ\4\4\2
+\f7c
+### kind of sounds too mean i guess?
+Momo:Yeah, I get it.\1
+ I was just rambling\1
+ a bit.\4\4\2
+# \0
+\0
+
+
+@7 F414/F416 
+# \2
+\2
+# モモ：おねがい！ドリームパールさん！\1
+Momo:I beg you!\1
+ Dream Pearls!\4\4\2
+# 　　　みんなのゆめを　もとにもどしてっ！\4\4\2
+### no newline
+Return everyone's dreams
+ to how they once were!\4\4\2
+# \0
+\0
+
+
+@5 B2EB/B2FB 
+# \2
+# \4\4プロデューサー\1
+# 　　　　　　　おがた　かずまさ\4\4\2
+# \0
+\2\4\4
+Producer\1
+\5\5\5\5\5\5\5\5\5Kazumasa\5Ogata
+\4\4\2\0
+
+
+@5 B2EC/B2FC 
+# \2
+# \4\4エグゼクティブ　プロデューサー\1
+# 　　　　　　　みやっさん\4\4\2
+# \0
+\2\4\4
+Executive Producer\1
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Miyassan
+\4\4\2\0
+
+
+@5 B2ED/B2FD 
+# \2
+# \4\4ディレクター\1
+# 　　　　　　　まつだ　こうじ\4\4\2
+# \0
+\2\4\4
+Director\1
+\5\5\5\5\5\5\5\5\5\5Kouji\5Matsuda
+\4\4\2\0
+
+
+@5 B2EE/B2FE 
+# \2
+# \4\4メイン　プログラマー\1
+# 　　　　　　　みやざき　さとる\4\4\2
+# \0
+\2\4\4
+Main Programmer\1
+\5\5\5\5\5\5\5\5Satoru\5Miyazaki
+\4\4\2\0
+
+
+@5 B2EF/B2FF 
+# \2
+# \4\4アシスタント　プログラマー\1
+# 　　　　　　　いんで　まさし\4\4\2
+# \0
+\2\4\4
+Assistant Programmer\1
+\5\5\5\5\5\5\5\5\5\5\5Masashi\5Inde
+\4\4\2\0
+
+
+@5 B2F0/B300 
+# \2
+# \4\4シナリオ　ライター\1
+# 　　　　　　　かきしす\4\4\2
+# \0
+\2\4\4
+Scenario Writer\1
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5Kakishisu
+\4\4\2\0
+
+
+@5 B2F1/B301 
+# \2
+# \4\4シナリオ　アドバイザー\1
+# 　　　　　　　たかピー\4\4\2
+# \0
+\2\4\4
+Scenario Advisor\1
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Takapii
+\4\4\2\0
+
+
+@5 B2F2/B302 
+# \2
+# \4\4グラフィック　デザイナー\1
+# 　　　　　　　まつだ　こうじ\1
+# 　　　　　　　たかピー\1
+# 　　　　　　　よだぴー\4\4\2
+# \0
+\2\4\4
+Graphic Designers\1
+\5\5\5\5\5\5\5\5\5\5Kouji\5Matsuda
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Takapii
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Yodapii
+\4\4\2\0
+
+
+@5 B2F3/B303 
+# \2
+# \4\4サブゲーム　デザイナー\1
+# 　　　　　　　まつだ　こうじ\1
+# 　　　　　　　たかピー\1
+# 　　　　　　　ゆうしゃ　かきしす\4\4\2
+# \0
+\2\4\4
+Sub Game Designers\1
+\5\5\5\5\5\5\5\5\5\5Kouji\5Matsuda
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Takapii
+\5\5\5\5\5\5\5\5\5Hero\5Kakishisu
+\4\4\2\0
+
+
+@5 B2F4/B304 
+# \2
+# \4\4ミュージック　コンポーザー\1
+# 　　　　　　　はまだ　ともゆき\1
+# 　　　　　　　いとう　やすひろ\4\4\2
+# \0
+\2\4\4
+Music Composers\1
+\5\5\5\5\5\5\5\5Tomoyuki\5Hamada
+\5\5\5\5\5\5\5\5\5\5Yasuhiro\5Itou
+\4\4\2\0
+
+
+@5 B2F5/B305 
+# \2
+# \4\4サウンド　ドライバー\1
+# 　　　　　　　よだぴー　きかく\4\4\2
+# \0
+\2\4\4
+Sound Driver\1
+\5\5\5\5\5\5\5Yodapii\5Planning
+\4\4\2\0
+
+
+@5 B2F6/B306 
+# \2
+# \4\4いじめっこ\1
+# 　　　　　　　おがやん\4\4\2
+# \0
+\2\4\4
+Bully\1
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5\5Ogayan
+\4\4\2\0
+
+
+@5 B2F7/B307 
+# \2
+# \4\4スペシャル　サンクス\1
+# 　　　　　　　あめりかん　なかむら\1
+# 　　　　　　　ぽもおぺたろ\1
+# 　　　　　　　れいんぼーぱぱ　きんちゃん\4\4\2
+# \0
+\2\4\4
+Special Thanks\1
+\5\5\5\5\5\5American\5Nakamura
+\5\5\5\5\5\5\5\5\5\5\5\5Pomoopetaro
+\5\5\5Rainbow\5Papa\5Kinchan
+\4\4\2\0
+
+
+@5 B2F8/B308 
+# \2
+# \4\4　　　　　　　れいんぼーまま　そにちゃん\1
+# 　　　　　　　たわらくん\1
+# 　　　　　　　やつくす\1
+# 　　　　　　　ゴッド　かなやま\4\4\2
+# \0
+\2\4\4
+### no relation to sonic the hedgehog
+\5\5Rainbow\5Mama\5Sonichan
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5Tawarakun
+\5\5\5\5\5\5\5\5\5\5\5\5\5\5Yatsukusu
+\5\5\5\5\5\5\5\5\5\5\5God\5Kanayama
+\4\4\2\0
+
+
+@5 B2F9/B309 
+# \2
+# \4\4　　　　　　　みほとけ　りゅういち\1
+# 　　　　　　　スワン　なかむら\1
+# 　　　　　　　ぞくぞく　はぎやん\1
+# 　　　　　　　みや　さとみ\4\4\2
+# \0
+\2\4\4
+\5\5\5\5\5\5\5\5Buddha\5Ryuuichi
+\5\5\5\5\5\5\5\5\5\5Swan\5Nakamura
+\5\5\5\5\5One-by-one\5Hagiyan
+### assuming this one is a real name
+\5\5\5\5\5\5\5\5\5\5\5\5Satomi\5Miya
+\4\4\2\0
+
+
+@5 B2FA/B30A 
+# \2
+# \4\4　　　　　　　らーめん　たくみ\1
+# 　　　　　　　うんける　ていおうえき\1
+# 　　　　　　　てつやのとも　もか\4\4\2
+# \0
+\2\4\4
+\5\5\5\5\5\5\5\5\5\5\5Ramen\5Takumi
+\5\5\5\5\5\5\5\5Unkeru\5Teioueki
+\5\5Tetsuya's\5Buddy\5Mocha
+\4\4\2\0
+
+

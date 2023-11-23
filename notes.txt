@@ -1,0 +1,211 @@
+
+
+----------------------------------------------------------- general
+
+ram:
+	$0c+ - ppu upload buffer
+		mode $00 (string):
+			for each entry:
+				word - ppu address
+				byte - length (bit 7: vertical copy)
+				$xx bytes - data
+			byte $ff terminates list
+		mode $01 (fastcopy $40 bytes):
+			$5f.w - big endian ppu address
+			$0c-$4b - data
+		mode $02 (rle-string):
+			for each entry:
+				byte - copy count (bit 7: vertical copy)
+				word - ppu address
+				byte - data
+		mode $03 (fastcopy $22 bytes):
+			$0c.w - big endian ppu address
+			$0e-$2f - data
+		mode $04 (vertical fastcopy $36 bytes):
+			$0c.w - big endian ppu address
+			$0e-$33 - data
+		mode $05 (vertical fastcopy $3a bytes):
+			$0c.w - big endian ppu address
+			$0e-$37 - data
+	
+	$5b - nmi-in-progress flag
+	$5c - disable sprite dma
+	$5d - ppu upload mode
+
+
+
+passwords:
+	ready to fight final boss:
+		んててん-くてせく
+		?88?-G8TG
+	uragawa password, unlocks all game center games:
+		おねかい-きいて♡
+		4hB1-D18♡
+
+
+
+
+
+----------------------------------------------------------- text drawing
+
+ram:
+	$02bb - nametable to print text on (0=$2000, 1=$2400, 2=$2800, 3=$2c00)
+	$02bc - current process
+		$00: normal text processing
+		$01: clearing text area
+		$02: waiting for $02c9
+		$03: waiting for A-press line advance
+		$04: making (2-option) choice
+	$02bd - command code 1 (=$ff)
+	$02be - command code 2 (=$fe)
+	$02bf - blank tile id (used to clear the text area)
+	$02c0 - text maximum columns
+	$02c1 - text maximum rows
+	$02c2.w - text nametable start index
+	$02c4 - text speed
+	$02c5.w - text start pointer
+	$02c7 - text column
+	$02c8 - text row
+	$02c9 - next char timer
+	$02ca.w - text pointer
+	$02cc.w - text nametable index
+	$02ce - currently within subroutine
+	$02cf.w - subroutine start text pointer
+	$02d1.w - return text pointer
+	$02d3 - long text wait time (=$3c)
+	$02d4 - choice selector index
+	$02d5 - disable speeding up text with B
+	$02da - flashing heart icon timer
+	$02db - face ($ff = none)
+	
+	
+detective subgame (all rom is in bank 1):
+	$03e8.w - pointer to objects table
+		each object is $0a bytes long, and the pointer to its name is at +$08.w
+	
+	$9ab4-$9abb - 4 pointers to 4 random room selections
+	$9abc-$9adb - pointer to room info
+	room info:
+		word - object table pointer
+		byte - length of objects list (->$03eb)
+		$xx bytes - object list A
+		$xx bytes - object list B  (either one is randomly selected?)
+			
+
+
+rom:
+	$cda0-$ce9a: char upper tile table
+	$ce9b-$cf95: char lower tile table
+	
+	$cfae - set textbox options
+		A: text speed
+		X: blank tile id
+		$85: text maximum columns
+			intro: 26
+			main game: 25
+			detective game: 13
+			ending text (w/ bagu and calling on dream pearls): 23
+			end credits: 23
+		$86: text maximum rows
+		$8e.w: text nametable start index
+	$d077 - set subroutine start pointer
+		X: lo
+		Y: hi
+	$d07e - init text drawing string
+		A: nametable to print text on
+		X: pointer lo
+		Y: pointer hi
+	$d0a1 - main
+	$d396 - alternate main used for detective game text
+	
+	$e668 - draw textbox face
+
+
+text format:
+	$ff $xx: command
+		$00: return from subroutine (if in any) or end text
+		$01: newline
+		$02: clear text area
+		$03: call subroutine
+		$04: long wait
+		$05: blank (don't wait for next char either)
+		$06: wait for A-press line advance
+		$07: start 2-option choice
+	$fe $xx: set face to $xx
+	$00-$fa: char
+
+detective text format:
+	$ff $xx: command
+		same as above
+	$xx $yy: tiles for the character, top then bottom
+		(these tiles are in chr bank $0a)
+
+
+
+
+
+
+------------------------------------------------------------ nametables
+
+
+rom:
+	$c85a - nametable $2000 upload
+	$c863 - nametable $2400 upload
+	$c86c - nametable $2800 upload
+		X: hi
+		Y: lo
+		data structure:
+			$ff $xx - command
+				$00: terminate
+				$01: upload byte $ff once
+				$02: upload byte $ff twice
+				$03-$7f $aa: upload byte $aa $xx times
+				$80-$ff $aa $bb: upload byte pair $aa/$bb $xx times
+			$00-$fe - byte to upload
+
+
+
+
+
+
+
+------------------------------------------------------------- level maps
+
+all code/data/pointers/tables are in bank $04
+
+metatiles are 2x2 tiles
+these maps are always $16 tiles -> $0b metatiles tall
+metamaps are laid out column by column, left to right, top to bottom
+metatiles are top-left, top-right, bottom-left, bottom-right
+there are 9 maps
+
+ram:
+	$02e4.w - metamap base pointer
+	$02e6.w - metamap current pointer
+	$02e8 - metamap current x-metatile offset
+	$02ea.w - max x-scroll offset
+	$02f1.w - x-scroll offset
+	$02f4 - metamap current x-metatile offset
+	$02fc - current area id
+	$02fd.w - metatiles base pointer
+	$02ff.w - metatile attributes pointer
+	$0301.w - metatile collisions/player interaction table pointer?
+
+
+rom:
+	$9210+ - max x-scroll lo tbl
+	$9219+ - metamap ptr lo tbl
+	$9222+ - metatiles ptr lo tbl
+	$922b+ - metatile collision ptr lo tbl
+	$9234+ - metatile attributes ptr lo tbl
+	$923d+ - max x-scroll hi tbl
+	$9246+ - metamap ptr hi tbl
+	$924f+ - metatiles ptr hi tbl
+	$9258+ - metatile collision ptr hi tbl
+	$9261+ - metatile attributes ptr hi tbl
+
+
+
+
+
+

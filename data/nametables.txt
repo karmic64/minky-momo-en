@@ -1,0 +1,95 @@
+######## Title screen
+
+@0 9ca2/9ca4 append
+## "Magical Princess"
+04 06 \00\00\00\00\00\00\00\00\00\00\00\00\00
+05 04 \e0\e1\e2\e3\e4\e5\ec\ed\ee\ef\f0\f1\f2\f3\f3
+06 04 \e6\e7\e8\e9\ea\eb\f4\f5\f6\f7\f8\f9\fa\fb\fb\00\00\00\00\00\00\00\00
+## "Minky Momo"
+07 09 \07\08\09\0a\0b\0c\0d\0e\0f\22\23\24\25\26\27\28\29\2a
+08 09 \10\11\12\13\14\15\16\17\18\2c\2d\2e\2f\30\31\32\33\34
+09 09 \19\1a\1b\1c\1d\1e\1f\20\21\37\38\39\3a\3b\3c\3d\3e\3f
+## "Remember Dream"
+11 18 \67\68\69\6a\6b\6c\6d\68\78
+12 18 \00\79\7a\7b\7c\7d\7e\ff\00
+
+
+######## Main select screen
+
+@0 adbd/adbf
+09 c ┏━━━━━━━━━━━┓
+10 c ┃           ┃
+11 c ┃  New game ┃
+12 c ┃           ┃
+13 c ┃           ┃
+14 c ┃  Password ┃
+15 c ┃           ┃
+16 c ┗━━━━━━━━━━━┛
+
+
+######## Password entry screen
+
+@0 ae38/ae3a
+05 c Enter your password.
+07 10 ┏━━━━━━━━━┓
+08 10 ┃    -    ┃
+09 10 ┗━━━━━━━━━┛
+11 05 ┏━━━━━━━━━━━━━━━━━━━┓
+12 05 ┃                   ┃
+13 05 ┃01234 BDGHM NQRTW ♡┃
+14 05 ┃                   ┃
+15 05 ┃56789 bdghm nqrtw ?┃
+16 05 ┃                   ┃
+17 05 ┗━━━━━━━━━━━━━━━━━━━┛
+20 c Press Start to play.
+
+
+######## Detective game
+
+##### (also hide "あと")
+
+### "Before crime"
+@1 94fc/9500 append
+20 25 \63\64\65\66\67
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 94fd/9501 append
+20 25 \63\64\65\66\67
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 94fe/9502 append
+20 25 \63\64\65\66\67
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 94ff/9503 append
+20 25 \63\64\65\66\67
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+
+### "After crime"
+@1 9504/9508 append
+20 25 \73\74\75\76\77
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 9505/9509 append
+20 25 \73\74\75\76\77
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 9506/950a append
+20 25 \73\74\75\76\77
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+@1 9507/950b append
+20 25 \73\74\75\76\77
+21 25 \fb\fc\fd\fe\ff
+23 25 \00\00
+
+
+######## Game over screen
+
+@7 ebec/ebee append
+## Hide tenten
+23 14 \00
+## "Try again?"
+24 08 \d8\d9\da\00\db\dc\db\dd\de\df
+

@@ -1,0 +1,12 @@
+0 bd69 bff9
+1 bca3 bff9
+2 bcb3 bff9
+3 bfc0 bff9
+4 befb bff9
+5 bee1 bff9
+6 b300 bff9
+7 fee7 ffdf
+
+7 cda0 cf95  previously charset tile table
+5 84ff 852c  unused copy of the ねこねこ string
+5 af0c af31  another unused string?

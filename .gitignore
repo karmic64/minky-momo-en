@@ -1,0 +1,14 @@
+IGNORE
+
+*.nes
+*.d
+*.exe
+*.zip
+
+tool/dump-font
+tool/make-tbl
+tool/make-detective-charset-h
+tool/text-hunter
+tool/detective-text-hunter
+tool/dump-text
+tool/make-minky-data
