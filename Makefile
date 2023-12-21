@@ -5,7 +5,7 @@ DOTEXE:=
 endif
 
 
-CFLAGS:=-s -Ofast -Wall
+CFLAGS:=-s -Ofast -Wall -Wextra
 CLIBS:=-lpng
 
 

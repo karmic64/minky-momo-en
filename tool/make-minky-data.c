@@ -176,8 +176,8 @@ size_t add_bin(unsigned bank, unsigned start, unsigned end) {
 	for (size_t i = 0; i < bin_cnt; i++) {
 		bin_t * cmp_bin = &bin_tbl[i];
 		if (bank == cmp_bin->bank) {
-			if ((start >= cmp_bin->start && start <= cmp_bin->end+1) ||
-				(end >= cmp_bin->start-1 && end <= cmp_bin->end)) {
+			if ((start >= cmp_bin->start && start <= (unsigned)cmp_bin->end+1) ||
+				(end >= (unsigned)cmp_bin->start-1 && end <= cmp_bin->end)) {
 				if (this_bin) {
 					// we already have a bin. delete this unnecessary bin
 					// and expand the one we're using
@@ -250,7 +250,7 @@ void write_sections() {
 		fprintf(of,
 			"\t* = prg_offs(%u,$%04X)\n"
 			"\t.logical $%04X\n"
-			"\t.dsection section_%u_%llu\n"
+			"\t.dsection section_%u_%zu\n"
 			"\t.cerror * > $%04X, \"too long\"\n"
 			"\t.here\n"
 			"\t\n",
@@ -586,7 +586,7 @@ void write_data_block(size_t bin_index, data_block_t * db) {
 	bin_t * b = &bin_tbl[bin_index];
 	
 	fprintf(of,
-		"\t.section section_%u_%llu\n"
+		"\t.section section_%u_%zu\n"
 		"\t.align %u\n"
 		"%s .byte ",
 		b->bank, bin_index,
@@ -673,7 +673,7 @@ size_t data_pointer_max = 0;
 size_t add_pointed_data(unsigned bank, unsigned ptr_cnt, const addr_t * lo, const addr_t * hi, size_t new_index, size_t new_size, unsigned align, int huffman, const char * label_prefix) {
 	// create a data block for this data
 	char label[0x40];
-	size_t label_len = sprintf(label, "%s_%llu", label_prefix, data_pointer_cnt);
+	size_t label_len = sprintf(label, "%s_%zu", label_prefix, data_pointer_cnt);
 	size_t label_index = append_data_heap(label, label_len + 1);
 	size_t data_block_index = add_data_block(bank, new_index, new_size, label_index, align, huffman);
 	
@@ -751,11 +751,11 @@ void write_en_charset() {
 		fputwc2utf8(c,of);
 		fputwc2utf8(c,of);
 		fprintf(of,
-			"\",$%02llX\n",
+			"\",$%02zX\n",
 			i++);
 	}
 	fprintf(of,
-		"EN_CHARSET_SIZE = $%02llX\n",
+		"EN_CHARSET_SIZE = $%02zX\n",
 		i);
 	fputc('\n',of);
 	fputc('\n',of);
